@@ -1,0 +1,38 @@
+{
+  "name": "gatsby-generic-diario",
+  "private": true,
+  "description": "Un diario de viaje genérico creado con GatsbyJS",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby clean && gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run develop",
+    "serve-build": "gatsby clean && gatsby build && gatsby serve -o",
+    "build": "gatsby clean && gatsby build --prefix-paths",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
+  "dependencies": {
+    "disqus-react": "^1.0.5",
+    "gatsby": "^2.3.23",
+    "gatsby-plugin-google-analytics": "^2.0.18",
+    "gatsby-plugin-react-helmet": "^3.0.12",
+    "gatsby-plugin-sitemap": "^2.0.12",
+    "gatsby-source-filesystem": "^2.0.28",
+    "gatsby-transformer-json": "^2.1.11",
+    "gatsby-transformer-remark": "^2.3.8",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-helmet": "^5.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}

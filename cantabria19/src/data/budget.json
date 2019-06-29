@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Transporte",
+    "entries": [
+      {
+        "description": "El avión",
+        "price_for": null,
+        "price_eur": 500
+      },
+      {
+        "description": "El coche de alquiler",
+        "price_for": 400,
+        "price_eur": 300
+      }
+    ]
+  },
+  {
+    "title": "Alojamientos",
+    "entries": [
+      {
+        "description": "Primer alojamiento del viaje",
+        "price_for": 123.45,
+        "price_eur": 99.99
+      },
+      {
+        "description": "Segundo alojamiento del viaje",
+        "price_for": 123.45,
+        "price_eur": 99.99
+      },
+      {
+        "description": "Tercer alojamiento del viaje",
+        "price_for": 123.40,
+        "price_eur": 99.91
+      }
+    ]
+  }
+]

@@ -1,0 +1,137 @@
+body {
+  font-family: "Roboto", sans-serif
+}
+
+.custom-outer {
+  max-width: 2000px !important;
+  margin-top: 46px
+}
+
+.custom-inner {
+  max-width:1200px;
+  text-align: justify;
+}
+
+.custom-banner-head {
+  background: url("../img/bg.jpg");
+  padding: 32px !important;
+}
+
+.custom-nav-small-scroll {
+  margin-top: 46px;
+  height:100%;
+  overflow-y:scroll;
+}
+
+.custom-m-l-10 {
+  margin-left: 10px;
+}
+
+.custom-m-b-10 {
+  margin-bottom: 10px;
+}
+
+.custom-stage-media {
+  text-align: center;
+}
+
+.custom-stage-media img {
+  height: 160px;
+  margin: 1px 0;
+}
+
+.custom-date {
+  font-style: italic;
+}
+
+.custom-stage-map img {
+  margin-top: 20px;
+  box-shadow: 0px 0px 20px 0px rgba(0,0,0,0.75);
+}
+
+.custom-stage-nav {
+  padding: 20px 0;
+  text-align: center;
+}
+
+.custom-stage-nav a {
+  padding: 10px 30px;
+  margin: 0 10px;
+  background-color: #E0E0E0;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.custom-stage-nav a:hover {
+  color: #E0E0E0;
+  background-color: #333;
+}
+
+.custom-stage p a {
+  color: #333333;
+  border-bottom: 1px dashed #333333;
+  text-decoration: none;
+}
+
+.custom-stage-video {
+  margin: 0 auto;
+  max-width: 640px;
+}
+
+.custom-stage-video div {
+  position: relative;
+  padding-top: 56.28%;
+}
+
+.custom-stage-video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.custom-max-width-800 {
+  max-width: 800;
+}
+
+.custom-full-width {
+  width: 100%;
+}
+
+.custom-offset-sides {
+  margin: 0 -16px;
+}
+
+.custom-footer i {
+  margin: 0 5px;
+}
+
+.custom-stage-links-footer {
+  display: none;
+}
+
+.custom-stage-links-footer ul {
+  padding-left: 1em;
+}
+
+.custom-stage-links-footer li {
+  list-style-type: none;
+  border-left: 3px solid #333333;
+  margin: 1em 0;
+}
+
+.custom-stage-links-footer li a {
+  text-decoration: none; 
+  padding-left: 1em;
+}
+
+.custom-stage-links-footer li a:hover {
+  font-weight: bold;
+}
+
+/* Ensure lightbox modal and image are shown on top of navbar */
+.lum-lightbox {
+  z-index: 2;
+}
+
