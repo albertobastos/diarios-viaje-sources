@@ -14,8 +14,10 @@ export default ({ data }) => (
     </div>
 
     <div className="w3-container w3-content w3-center w3-padding-32 custom-max-width-800">
-      <p className="w3-justify">Aquí va un texto descriptivo del diario, explicando la zona visitada y enumerando las
-        distintas secciones de las que se compone la página web.</p>
+      <p className="w3-justify">Bienvenido a nuestro diario de viaje al <strong>Parque Nacional de Picos de Europa</strong> y sus alrededores durante julio de 2019.</p>
+      <p className="w3-justify">Durante algo menos de dos semanas recorrimos parte de las provincias de <strong>Cantabria</strong>, <strong>León</strong> y <strong>Asturias</strong> con nuestro propio vehículo traído hasta la península a través de un ferry desde Mallorca.</p>
+      <p className="w3-justify">Utiliza el menú superior o las secciones inferiores para leer una extensa descripción de cada etapa, ver las fotografías y videos que lo acompañan o saber cual fue el coste final de nuestro viaje.</p>
+      <p className="w3-justify">¡Esperamos que lo disfrutes tanto como nosotros!</p>
     </div>
 
     <div className="w3-light-grey">
@@ -26,7 +28,7 @@ export default ({ data }) => (
               className="w3-hover-opacity custom-full-width" /></Link>
             <div className="w3-container w3-white w3-center">
               <p><b>Diario de viaje</b></p>
-              <p>Texto invitando a empezar a navegar por las etapas.</p>
+              <p>El Norte espera. ¿Comenzamos?</p>
               <Link to={data.allMarkdownRemark.edges[0].node.fields.slug} className="w3-button w3-black w3-margin-bottom">Empezar</Link>
             </div>
           </div>
@@ -36,7 +38,7 @@ export default ({ data }) => (
                 className="w3-hover-opacity custom-full-width" /></Link>
               <div className="w3-container w3-white w3-center">
                 <p><b>Multimedia</b></p>
-                <p>Explicación de qué hay en esta sección.</p>
+                <p>Pequeña película del viaje y videos independientes de algunos de los alojamientos visitados.</p>
                 <Link to="/extras/" className="w3-button w3-black w3-margin-bottom">Ver</Link>
               </div>
             </div> : null}
@@ -45,7 +47,7 @@ export default ({ data }) => (
               className="w3-hover-opacity custom-full-width" /></Link>
             <div className="w3-container w3-white w3-center">
               <p><b>Presupuesto</b></p>
-              <p>Indicaciones sobre en qué consiste el presupuesto.</p>
+              <p>Desglose detallado del coste final que tuvo el viaje.</p>
               <Link to="/presupuesto/" className="w3-button w3-black w3-margin-bottom">Abrir</Link>
             </div>
           </div> : null}

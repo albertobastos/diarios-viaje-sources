@@ -1,12 +1,12 @@
 const siteMetadata = {
-  title: "Ejemplo de diario de viaje",
-  subtitle: "Una plantilla de diario de viaje generado con Gatsby",
-  description: "Descripción para SEO del diario de viaje",
-  rootUrl: 'http://albertobastos.info',
-  siteUrl: 'http://albertobastos.info/viajes/2018pirineos',
-  disqus: "pirineos-2018-diario-de-viaje",
-  //"photoCdn": "http://localhost:8001/2018pirineos",
-  photoCdn: "http://d3bhx6meigp7tf.cloudfront.net/2018pirineos",
+  title: "Picos de Europa 2019",
+  subtitle: "Cantabria, León... y por supuesto, Asturias",
+  description: "Diario de un viaje alrededor del Parque Nacional de Picos de Europa visitando las provincias de Cantabria, León y Asturias",
+  rootUrl: '/', // usado para links en el menú
+  siteUrl: 'http://albertobastos.info/viajes/2019picos', // usado internamente por gatsby
+  disqus: "picos-2019-diario-de-viaje",
+  "photoCdn": "http://localhost:8001/2019picos",
+  //photoCdn: "http://d3bhx6meigp7tf.cloudfront.net/2019picos",
   photoFullFolder: 'large',
   photoThumbFolder: 'thumb',
   //analytics: "UA-329917-999",

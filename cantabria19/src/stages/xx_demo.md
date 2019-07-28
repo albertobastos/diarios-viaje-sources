@@ -1,9 +1,10 @@
 ---
-title: Etapa dos
-description: Descripción para SEO de la etapa dos
-index: 2
-map: P18D02MAP
-date: "2 de septiembre de 2099"
+title: Etapa demo
+description: Descripción para SEO de la etapa demo
+index: 999
+map: DEMOMAP
+date: "30 de febrero de 2099"
+private: true
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lobortis sagittis ante, eu auctor ante scelerisque et. Nam et iaculis quam. Nullam id felis quis nibh porta tincidunt nec eget justo. Cras sed ultrices turpis. Phasellus pulvinar augue a sem vulputate, sed congue leo ultrices. Mauris tempor dui nec maximus auctor. Nulla facilisi. Pellentesque et arcu nisi. Fusce imperdiet congue commodo. Phasellus ac interdum libero. Pellentesque nec pulvinar urna. Curabitur at lobortis leo, a tincidunt ex. Phasellus vestibulum nulla et ligula blandit, a tempus nunc malesuada.
 
