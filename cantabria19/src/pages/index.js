@@ -28,7 +28,7 @@ export default ({ data }) => (
               className="w3-hover-opacity custom-full-width" /></Link>
             <div className="w3-container w3-white w3-center">
               <p><b>Diario de viaje</b></p>
-              <p>El Norte espera. ¿Comenzamos?</p>
+              <p>El norte espera... ¿comenzamos?</p>
               <Link to={data.allMarkdownRemark.edges[0].node.fields.slug} className="w3-button w3-black w3-margin-bottom">Empezar</Link>
             </div>
           </div>
