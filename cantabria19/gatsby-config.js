@@ -11,7 +11,7 @@ const siteMetadata = {
   photoThumbFolder: 'thumb',
   //analytics: "UA-329917-999",
   flags: {
-    showBudget: false,
+    showBudget: true,
     showExtras: false,
     showComments: true
   }

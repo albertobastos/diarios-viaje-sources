@@ -135,3 +135,29 @@ body {
   z-index: 2;
 }
 
+.custom-budget {
+  border-collapse: collapse;
+}
+
+.custom-budget td {
+  padding: 10px;
+}
+
+.custom-budget td+td {
+  text-align: right;
+}
+
+.custom-budget-section {
+  font-size: 1.4em;
+  background-color: #E0E0E0;
+}
+
+.custom-budget-item:hover {
+  background-color: #F6F6F6;
+}
+
+.custom-budget-total {
+  font-weight: bold;
+  font-size: 1.4em;
+  background-color: #E0E0E0;
+}

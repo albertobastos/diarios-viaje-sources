@@ -4,9 +4,6 @@ import { Helmet } from "react-helmet"
 import Layout from "../components/layout"
 
 export default ({ data }) => {
-  const headStyle = { fontWeight: 'bold' }
-  const totalStyle = { fontWeight: 'bold', fontSize: '3em' }
-  const totalEurStyle = { textAlign: 'right' }
   const totalEur = getTotalEur(data);
   return (
     <div>
@@ -15,35 +12,38 @@ export default ({ data }) => {
         <meta name="Description" content="Presupuesto del viaje"></meta>
       </Helmet>
       <Layout>
-        <p>Presupuesto</p>
-        <table>
-          {data.allBudgetJson.edges.map(({ node }) => {
-            return (
-              <tbody key={node.id}>
-                <tr style={headStyle}>
-                  <td>{node.title}</td>
-                  <td>USD</td>
-                  <td>EUR</td>
-                </tr>
-                {node.entries.map((entry, index) => {
-                  return (
-                    <tr key={`${node.id}_${index}`}>
-                      <td>{entry.description}</td>
-                      <td>{entry.price_for}</td>
-                      <td>{entry.price_eur}</td>
-                    </tr>
-                  )
-                })}
-              </tbody>
-            );
-          })}
-          <tbody style={totalStyle}>
-            <tr>
-              <td>TOTAL</td>
-              <td colSpan={2} style={totalEurStyle}>{totalEur}</td>
-            </tr>
-          </tbody>
-        </table>
+        <div className="w3-container w3-center custom-banner-head">
+          <h2 className="w3-wide">Presupuesto</h2>
+          <h3 className="w3-wide custom-date">¿Cuánto ha costado el viaje?</h3>
+        </div>        
+        <div className="w3-container w3-content w3-padding-32 custom-inner custom-stage">        
+          <table className="custom-budget">
+            {data.allBudgetJson.edges.map(({ node }) => {
+              return (
+                <tbody key={node.id}>
+                  <tr className="custom-budget-section">
+                    <td>{node.title}</td>
+                    <td>EUR</td>
+                  </tr>
+                  {node.entries.map((entry, index) => {
+                    return (
+                      <tr key={`${node.id}_${index}`} className="custom-budget-item">
+                        <td>{entry.description}</td>
+                        <td>{currencyStr(entry.price_eur)}€</td>
+                      </tr>
+                    )
+                  })}
+                </tbody>
+              );
+            })}
+            <tbody>
+              <tr className="custom-budget-total">
+                <td>TOTAL (2 personas)</td>
+                <td colSpan={2}>{currencyStr(totalEur)}€</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
       </Layout>
     </div>
   )
@@ -73,8 +73,13 @@ export const query = graphql`
 `
 
 function getTotalEur(data) {
-  return data.allBudgetJson.edges
+  const sum = data.allBudgetJson.edges
     .map(({ node }) => node.entries)
     .reduce((arr, entries) => arr.concat(entries), [])
     .reduce((sum, entry) => sum + entry.price_eur, 0);
+  return sum;
+}
+
+function currencyStr(n) {
+  return n.toFixed(2).toString().replace('.',',');
 }
