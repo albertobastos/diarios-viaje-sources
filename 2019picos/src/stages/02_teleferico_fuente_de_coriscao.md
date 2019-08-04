@@ -1,5 +1,5 @@
 ---
-title: Teleférico de Fuente Dé y antesala del Coriscao
+title: Fuente Dé y el Coriscao
 description: Subida a la estación de El Cable mediante el Teleférico de Fuente Dé y excursión desde el Collado de Llesba hasta el collado previo a la cima del Coriscao, con vistas a los macizos de Picos de Europa.
 index: 4
 map: 

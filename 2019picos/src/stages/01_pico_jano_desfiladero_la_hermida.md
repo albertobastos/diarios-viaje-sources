@@ -1,5 +1,5 @@
 ---
-title: Subida al Pico Jano y mirador al Desfiladero de La Hermida
+title: Pico Jano y Desfiladero de La Hermida
 description: Subida a la cima del Pico Jano desde Dobarganes y vistas al Desfiladero de La Hermida desde el Mirador de Santa Catalina.
 index: 3
 map: 

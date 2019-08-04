@@ -1,5 +1,5 @@
 ---
-title: De Barcelona a Cantabria esquivando peajes
+title: De Barcelona a Cantabria
 description: Recorrido de Barcelona a Cahecho (Cantabria) en coche evitando autopistas de peaje
 index: 2
 map: 

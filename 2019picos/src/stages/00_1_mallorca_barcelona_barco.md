@@ -1,5 +1,5 @@
 ---
-title: De Mallorca a Barcelona surcando los mares
+title: De Mallorca a Barcelona
 description: Recorrido de Mallorca a Barcelona a bordo del buque Hypatia de Alejandría de la compañía Baleària
 index: 1
 map: 
