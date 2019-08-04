@@ -63,7 +63,6 @@ export const query = graphql`
             title
             entries {
                 description
-                price_for
                 price_eur
             }
         }
