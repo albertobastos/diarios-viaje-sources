@@ -36,4 +36,8 @@ Regresamos al coche para encarar nuestros últimos minutos de carretera de un la
 
 Nos recibe Gonzalo, que tras gestionar el papeleo de la reserva nos señala la puerta del apartamento #1 indicando que esa será nuestra casa durante las dos próximas noches. Entramos y enseguida vemos que hemos acertado con nuestra apuesta. Encontramos en el interior un apartamento de dos plantas con dos habitaciones en la parte superior y un más que suficiente salón comedor con cocina y lavadora incluídas en el piso inferior. Al abrir las ventanas ahí tenemos esas vistas que, aún siendo muy mejorables en un día con mejor visibilidad, ya valen mucho la pena. Mientras descargamos todo el contenido de nuestro maletero, los amenazadores truenos que hace un par de minutos sonaban en la distancia se traducen en un diluvio que nos parecía impensable hace un par de días. Entramos y nos relajamos mirando como el agua baña todo el verde de los alrededores. 
 
+[Apartamentos Rurales Fuente de Somave](https://www.youtube.com/watch?v=aIFpEL7xa9o)
+
 El resto del día solo tiene como objetivo relajarse, disfrutar del clima, revisar las recomendaciones de excursiones y restaurantes del dossier para huéspedes y estudiar cómo encajarlas con lo que traemos planeado y la previsión meteorológica de los dos próximos días. Son las 21:00 cuando estamos cenando y con tiempo por delante para dejar pasar las últimas horas del día en la cama revisando las redes sociales mientras sigue lloviendo en el exterior. A esto veníamos, y esto hemos encontrado. Nada que objetar.
+
+[Timelapse @ Cahecho](https://www.youtube.com/watch?v=R7zVBXh1be4)

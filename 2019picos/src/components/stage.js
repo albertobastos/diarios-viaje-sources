@@ -89,10 +89,9 @@ function processStageHtml({ photoCdn, photoFullFolder, photoThumbFolder }, html)
     '<iframe src="https://www.youtube.com/embed/$1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
   );
   html = html.replace(
-    /<p><iframe (.*)><\/iframe><\/p>/,
+    /<p><iframe (.*)><\/iframe><\/p>/g,
     `<div class="${CUSTOM_CLASS_VIDEO_CONTAINER}"><div><iframe $1></iframe></div></div>`
   );
 
-  // TODO: Añadir atributos necesarios para los links al pie
   return html;
 }
