@@ -12,7 +12,7 @@ const siteMetadata = {
   //analytics: "UA-329917-999",
   flags: {
     showBudget: true,
-    showExtras: false,
+    showExtras: true,
     showComments: true
   }
 }

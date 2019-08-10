@@ -37,8 +37,8 @@ export default ({ data }) => (
               <Link to="/extras/"><img src={img_extras} alt="Ver multimedia"
                 className="w3-hover-opacity custom-full-width" /></Link>
               <div className="w3-container w3-white w3-center">
-                <p><b>Multimedia</b></p>
-                <p>Pequeña película del viaje y videos independientes de algunos de los alojamientos visitados.</p>
+                <p><b>Videos</b></p>
+                <p>Una recopilación de todos los videos incluidos en el diario, incluido el recorrido por la mayoría de los alojamientos.</p>
                 <Link to="/extras/" className="w3-button w3-black w3-margin-bottom">Ver</Link>
               </div>
             </div> : null}

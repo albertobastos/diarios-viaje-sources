@@ -12,6 +12,9 @@ Son las 6:50 y estoy desperezándome en la cama cuando de repente recuerdo que e
 
 Pasa algo más de una hora y a las 8:00 recojo la cámara. El amanecer no va a ser tan espectacular como me imaginaba en mi cabeza ya que el cielo está totalmente cubierto y eso impide el efecto "cortina de luz" que antes mencionaba. Además ha llegado lo inevitable: está lloviendo en Asturias. Una lluvia débil pero de las que se agarran a la todo lo que encuentre por su camino, incluida la ropa. Soy el único que lo sabe ya que a tenor de los sonidos de la mañana, todo Cabielles todavía duerme.
 
+![Buenos días, Cabielles](P19_D09_01)
+![¿Te imaginas despertar así cada día de tu vida?](P19_D09_02)
+
 [Timelapse @ Cabielles (amanecer)](https://www.youtube.com/watch?v=YdFCo9CGRzA)
 
 Pasan dos horas más, hasta las 10:00. Con L ya incorporándose a la jornada y el sonido de una podadora y algún rebuzno sustituyendo al de los cencerros matutinos, el cielo sigue cubierto pero hay bastante más luz de la que se podía esperar. Entre procesar fotografías y navegar por Internet van surgiendo ideas para sustituir nuestros planes originales de subir a los [Lagos de Covadonga](https://es.wikipedia.org/wiki/Lagos_de_Covadonga). Ya los hemos visto hace dos años, para llegar a ellos hay que pagar un billete de autocar -salvo que subas en tu coche antes de las 8:30 o después de las 21:00- y siendo algo mucho más turístico, popular y masificado que los anteriores hitos el viaje, no tiene mucho sentido llegar hasta ellos si además lo más probable es que una vez arriba todo lo que nos espere sea el interior de una nube que no deje ver más allá de dos metros, tal y como nos confirma la [webcam](https://www.webcamsdeasturias.com/asturias/oriente/cangas-de-onis/cangas-de-onis/lagos-de-covadonga-lago-enol/159/ "Webcam sobre el Lago Enol, en los Lagos de Covadonga") instalada junto al Lago Enol.
@@ -20,17 +23,39 @@ Empieza a ganar fuerza la idea de desplazarse hasta [Gijón](https://es.wikipedi
 
 Decidimos que saldremos hacia el norte después de comer, sabiendo que no será muy tarde cuando echemos mano de los restos del cachopo de la noche anterior ya que hemos hecho un desayuno bastante ligero. Hacemos tiempo dando un paseo por los alrededores del apartamento, aprovechando un momento de tregua en el que las nubes han dejado de llorar. Alcanzamos a través de un camino la valla que nos separa de un caballo blanco al que veíamos hacer extraños gestos desde la distancia. Cuando lo observamos de cerca descubrimos que el problema son las pesadas y testarudas moscas, que se agarran constantemente a su morro y le obligan a dar cabezazos una y otra vez para ahuyentarlas. Regresamos a nuestro asentamiento para calentar la comida y hacer un último repaso a qué podemos hacer cuando lleguemos a Gijón. Salimos hacia el coche, no sin antes procastinar un poco más y descubrir que han puesto a la venta todo el complejo de esos [Apartamentos Lagos de Saliencia](https://www.lagosdesaliencia.com/) en los que pasamos dos noches recientemente. Antes de cerrar la puerta pongo en marcha el primer lavavajillas que utilizo en mi vida y apago las luces esperando que cuando las vuelva a encender no aparezca ante nosotros un enorme charco de agua y jabón.
 
-Los 75 minutos que nos llevan hasta el centro de Gijón se hacen algo largos, especialmente en su último tramo. Durante el camino atravesamos múltiples túneles -me parece muy significativa la inversión y mantenimiento de las carreteras asturianas- e intercalamos tramos de lluvia algo intensa con fragmentos de carretera sobre los que no parece haber caído ni una sola gota. Damos un par de vueltas por la plaza junto al [Centro Comercial Los Fresnos](https://www.centrocomerciallosfresnos.es/ "Centro Comercial Los Fresnos de Gijón") pero, al ver que el aparcamiento es gratuito solo durante las primeras dos horas, decidimos dar un repaso a las calles cercanas hasta encontrar una plaza  libre en una de las vías que no está tarificada mediante zona azul.
+![Malditas moscas...](P19_D09_03)
+![Incómodo, pero espléndido](P19_D09_04)
+![Dejadme en paz de una vez...](P19_D09_05)
+![Disfrutando de los alrededores del apartamento](P19_D09_06)
+![Cachopo, Round 2](P19_D09_07)
+
+Los 75 minutos que nos llevan hasta el centro de Gijón se hacen algo largos, especialmente en su último tramo. Durante el camino atravesamos múltiples túneles -me parece muy significativa la inversión y mantenimiento de las carreteras asturianas- e intercalamos tramos de lluvia algo intensa con fragmentos de carretera sobre los que no parece haber caído ni una sola gota. Damos un par de vueltas por la plaza junto al [Centro Comercial Los Fresnos](https://www.centrocomerciallosfresnos.es/ "Centro Comercial Los Fresnos de Gijón") pero, al ver que el aparcamiento es gratuito solo durante las primeras dos horas, decidimos dar un repaso a las calles cercanas hasta encontrar una plaza libre en una de las vías que no está tarificada mediante zona azul.
 
 Echamos a andar con rumbo al mar, que está a unos 15 minutos de nuestro coche. Por las calles, de momento muy poco transitadas, nos encontramos todos los comercios cerrados hasta las 17:00. Digamos que, de momento, Gijón no está siendo exactamente un flechazo. Alcanzamos el mar allí donde se encuentran las "[Letronas de Gijón](https://www.lavozdeasturias.es/noticia/gijon/2019/04/16/letronas-fotografiadas-gijon/00031555425741045622284.htm "Las letronas de Gijón")", las cuales pasamos de largo por que ya están siendo atendidas por unos cuantos turistas y lo de posar ante unas letras con el nombre de la ciudad nos recuerda demasiado a lo que hacen ingleses y alemanes en el Paseo Marítimo de Palma, incomodándonos la idea de hacer lo mismo que ellos. Rodeamos por la izquierda el barrio de "[Cimadevilla](https://es.wikipedia.org/wiki/Cimadevilla "Barrio de Cimadevilla, Gijón")", ubicado en un saliente que se adentra en el mar y en cuyo centro se levanta el Parque del Cerro. Aqui, tras ganar altura mediante unas pocas cuestas, alcanzamos el [Elogio del Horizonte](https://es.wikipedia.org/wiki/Elogio_del_Horizonte "Elogio del Horizonte, Gijón").
 
+![El poco atractivo cielo de Gijón](P19_D09_08)
+![Torre construida con la sidra que se consume cada noche en Asturias](P19_D09_09)
+![Bordeando el puerto deportivo de Gijón](P19_D09_10)
+![Rincones urbanos](P19_D09_11)
+
 El que no sepa lo que es el Elogio del Horizonte probablemente lo haya visto en fotografías aún sin saber qué era y en qué ciudad se encontraba. Por lo menos, eso es lo que nos pasaba a nosotros. Se trata de una escultura de hormigón de [Chillida](https://es.wikipedia.org/wiki/Eduardo_Chillida "Eduardo Chillida, escultor") que consiste en un anillo casi cerrado elevado 10 metros sobre el suelo mediante dos columnas del mismo material. No sé de arte, así que no puedo decir qué significa o representa sin estar tirándome un triple. Me limitaré a hacer de altavoz de la cultura popular y, tal y como me descubre nuestra amiga S de Mieres, recalcar que el pueblo también lo conoce como "El váter de King Kong". Y sí, la verdad es que se trata de una metáfora muy evocadora y en absoluto desencaminada. El Elogio luce más por su situación que por su construcción y mantenimiento, ya que sus paredes no están especialmente limpias y lo que más destaca en ellas son varias pintadas, en su mayoría antifascistas.
 
+![El Elogio del Horizonte](P19_D09_12)
+![Tejados de Gijón](P19_D09_13)
+
 Comenzamos a perder altura bajando del cerro por el lado opuesto al que hemos utilizado para alcanzar su punto más alto. Por esta vertiente oriental nos espera la [Playa de San Lorenzo](https://es.wikipedia.org/wiki/Playa_de_San_Lorenzo "Playa de San Lorenzo, Gijón") y la [Iglesia de San Pedro](https://es.wikipedia.org/wiki/Iglesia_de_San_Pedro_(Gij%C3%B3n) "Iglesia de San Pedro, Gijón") plantada entre su orilla y nosotros. Por aquí hay más ambiente, más vida, y nuestra percepción de la ciudad comienza a mejorar. Vamos avanzando lo más cerca posible del mar, que suele ser en paralelo a una barandilla excepto en el tramo en el que el [club náutico](https://es.wikipedia.org/wiki/Real_Club_Astur_de_Regatas "Real Club Astur de Regatas, Gijón") nos impide acercarnos más al agua. Bajamos hasta el inicio de la playa pero sin llegar a entrar en ella. El mar está dominado por gaviotas y otra fauna similar a excepción de un par de bañistas que parecen estar usando las aguas más como gimnasio que como área recreativa.
+
+![Aparece la Playa de San Lorenzo](P19_D09_14)
+![Iglesia de San Pedro](P19_D09_15)
+![Real Club Astur de Regatas](P19_D09_16)
+![La Playa de San Lorenzo, desde abajo](P19_D09_17)
+![La atractiva ubicación de la iglesia](P19_D09_18)
 
 Son las 16:00 cuando empezamos a alejarnos del Mar Cantábrico, que pese a estar en un día tranquilo presenta un oleaje que para el Mediterráneo ya supondría "un día movido". En lugar de regresar directamente hacia el coche preferimos hacer algo más de tiempo para alcanzar el horario comercial de tarde y ver las calles de Gijón con un poco más de actividad. Nos sentamos en una cafetería cualquiera para tomar dos cafetines junto a un mini-brownie y un mini-donut por 3,85€.
 
 Entramos tímidamente en el [Mercado del Sur](https://es.wikipedia.org/wiki/Mercado_del_Sur "Mercado del Sur, Gijón"), pero enseguida salimos por otro de sus accesos para disimular. Las pocas charcuterías abiertas en su interior presentan precios muy superiores a los que hemos visto en algunos escaparates según paseábamos por la ciudad, así que finalmente es en uno de esos negocios donde hacemos acopio de queso para nosotros y toda la familia. Tres piezas de algo menos de medio kilo de queso curado asturiano y una generosa cuña de queso de tipo manchego para nosotros por un total de 23€.
+
+![Queeeesooo...](P19_D09_19)
 
 Volvemos ahora sí a nuestro Grand Modus, pero antes de abandonar la ciudad paramos en el cercano Carrefour del Centro Comercial Los Fresnos. Unas últimas compras pendientes y ahora sí, nos vamos de aquí no sin antes pasar por una gasolinera [Ballenoil](https://www.ballenoil.es/ "Estaciones de servicio Ballenoil") en un polígono industrial de Gijón-Sur. Nuestra opinión sobre la ciudad costera asturiana ha ido mejorando según ha avanzado la tarde, pero personalmente seguimos quedándonos con [Oviedo](https://es.wikipedia.org/wiki/Oviedo "Oviedo, Asturias"). Un factor muy determinante puede ser que, tras 23 años en Barcelona y otros 12 en Mallorca, el hecho de contar con costa ha dejado de ser una variable que ayude a que me guste más o menos una ciudad. Al que haya vivido siempre en el interior o esté realmente enamorado de los contrastes entre cemento y arena, puede que Gijón le convenza más que Uviéu.
 
@@ -49,6 +74,10 @@ Nos prometemos ser más comedidos esta vez con nuestra comanda, aunque tratándo
 * _Risotto de langostinos._ Recomendación expresa de nuestra anfitriona y el momento que más espero de la noche ya que el risotto es ya de por sí uno de mis tres platos favoritos. Algo menos pastoso de lo que a mí me gusta -pero es que me gusta casi compacto- y con mucho regusto a paella.  Igualmente impresionante.
 
 * _Secreto ibérico._ Unas seis o siete finas tiras de cerdo presentadas sobre una plancha todavía caliente para que alcancen el punto de crujiente deseado por el comensal. Acompañado de nuevas rodajas de calabacín y un generoso colchón de patatas fritas caseras que todavía conservan el brillo de la freidora. Para mí, lo mejor de la noche. Y eso que, recuerdo, el menú incluía mi plato de arroz preferido.
+
+![El provolone](P19_D09_20)
+![El risotto](P19_D09_21)
+![El secreto](P19_D09_22)
 
 Esta vez no hay postre, ya que no seríamos capaces de comérnoslo tras hacer el pequeño esfuerzo por no dejar nada en el plato. Y la cuenta, 41,7€. Prácticamente idéntica a los 43€ de ayer, ya que hemos sustituido un entrante por un plato principal y hemos prescindido del postre. Incluso a nuestros amigos asturianos les parece barato, no digamos ya a nuestros amigos y familiares catalanes, madrileños o mallorquines. San Martín Gastrobar. No hay que olvidarse de este nombre.
 
