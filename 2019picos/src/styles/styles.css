@@ -135,6 +135,14 @@ body {
   z-index: 2;
 }
 
+/* Improve lightbox images readability with some background */
+.lum-lightbox-caption {
+  background-color: rgba(0,0,0,.7);
+  padding: .2em !important;
+}
+
+/* budget styles */
+
 .custom-budget {
   border-collapse: collapse;
 }

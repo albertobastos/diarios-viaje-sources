@@ -12,7 +12,12 @@ Son las 7:00 en el tranquilo pueblo de [Cahecho](https://es.wikipedia.org/wiki/C
 
 Soy yo el primero que baja al salón y desayuna mientras L estira todo lo posible su descanso. A las 9:00 empiezo a oir crujir el techo anticipándome que ella también ha empezado su día. Desde la terraza vemos las cercanas casas de Cahecho y más allá, la más absoluta nada. Una espesa capa de niebla pinta de blanco todo el horizonte y solo muy puntualmente se deja ver alguna silueta de las montañas que nos rodean. No tenemos claro en qué momento exacto empezará a clarear, así que decidimos salir de todos modos con la esperanza de que la visibilidad mejore según nos acerquemos al inicio de nuestra primera excursión del viaje.
 
+![Buenos días, Cahecho](P19_D01_01)
+![Haciendo amigos](P19_D01_02)
+
 A las 9:40 hacemos una primera parada en [Potes](https://es.wikipedia.org/wiki/Potes "Potes, Cantabria"), el más poblado de los núcleos de la zona y principal fuente de locales y servicios para los turistas del Valle de [Liébana](https://es.wikipedia.org/wiki/Li%C3%A9bana "Comarca de Liébana"). Como por arte de magia, al descender los más de 500 metros de diferencia entre Potes y Cahecho la niebla se ha disipado y lo que nos espera ahora al salir del coche es un sol que empieza a bañar los tejados. Hacemos dos compras rápidas en otro Supermercado Día -nos faltaba papel de aluminio...- y retomamos la marcha. Nos quedan por delante 25 kilómetros que, con un tramo final de carretera de montaña, nos harán subir hasta los más de 900 metros de altura sobre el nivel del mar de [Dobarganes](https://es.wikipedia.org/wiki/Dobarganes "Dobarganes, Cantabria"), una localidad consistente en apenas tres calles en las que solo se oye el ruido de los pájaros y desde la cual se inicia el ascenso a nuestra primera cima.
+
+![Los locales, a lo suyo](P19_D01_03)
 
 Para inaugurar nuestra serie de salidas hemos elegido la subida al [Pico Jano](https://es.wikipedia.org/wiki/Pico_Jano_(Li%C3%A9bana) "Pico Jano, en Liébana"), una cumbre de 1500 metros en el Valle de Liébana que combina nuestros dos aspectos favoritos de una excursión: un desnivel y distancia razonable -500 metros a remontar en unos cinco kilómetros- y una recompensa final en forma de vistas muy cercanas a la pared de piedra de los Picos de Europa... cuando el día acompaña, claro. Desde aquí vemos que en el cielo conviven zonas con un radiante azul y zonas donde las nubes se resisten a marcharse, así que es toda una incógnita que nos encontraremos al llegar al destino.
 
@@ -20,15 +25,36 @@ Cambiamos bambas por botas, nos echamos la mochila a la espalda y nos dirigimos 
 
 Efectivamente una pista de tierra nace allí donde terminan las casas y comienza a ganar altura con bastante fuerza. Durante los primeros minutos no estamos del todo convencidos de haber hecho lo correcto, con un ojo puesto en el "[track](https://es.wikiloc.com/rutas-senderismo/pico-jano-liebana-dobarganes-pico-jano-dobarganes-19202300 "Ruta circular de senderismo entre Dobarganes y la cima del Pico Jano") que llevamos [cargado en el móvil](https://play.google.com/store/apps/details?id=com.vecturagames.android.app.gpxviewer&hl=es "GPX Viewer, aplicación Android para visualizar ficheros .gpx") y que muestra como en lugar de acercarnos al Pico Jano nos estamos alejando de él. Pero entonces el camino gira, endereza su trayectoria, y tras unos dos kilómetros y habiendo ganado 100 metros de altura nos cruzamos por primera vez con el sendero por el que pretendíamos subir. Y es en ese momento cuando ese hombre, ese héroe que ha tenido a bien transmitirnos su sabiduría, pasa a ser bautizado como San Anónimo de Dobarganes, protector de los despistados senderistas. El sendero que se nos cruza y que tiene aquí marcado un hito numerado con un "7" dibujado en su base tiene un aspecto amenazante, siendo difícil distinguirlo en aquellos tramos donde la hierba es alta y mostrando una pendiente mucho más fuerte que la de la pista por la que estamos caminando. Sería la ruta óptima para un Killian Jornet cualquiera capaz de correr por paredes verticales, pero para nosotros hubiera sido demasiado.
 
+![La primera de muchas](P19_D01_04)
+![Eso de la izquierda era nuestro "camino" previsto](P19_D01_05)
+
 Devolvemos la vista a la pista de tierra que ahora ya nos tiene completamente convencidos, aún a sabiendas de que su menor pendiente tendrá como consecuencia una distancia total a recorrer mayor de la esperada. Seguimos subiendo, parando cada vez que lo consideramos necesario para coger aire y viendo como el ascenso sigue y sigue tras cada curva. Las vistas, lógicamente, son cada vez más prometedoras y cuando los árboles lo permiten dejan asomar ya algún balcón al valle que hemos dejado a nuestros pies. No volvemos a cruzarnos con el sendero hasta un nuevo hito cuyo número es ya el 22. Es la antesala a la cima, ya que aquí termina la pista y solo queda por delante un tercio de kilómetro en el que superar los últimos 50 metros de desnivel antes de alcanzar el punto geodésico que marca la cumbre del Pico Jano.
+
+![Empiezan a formarse las vistas](P19_D01_06)
+![Verdes y azules](P19_D01_07)
 
 Lo alcanzamos, y ahí están los Picos... entre comillas. El sitio merece la pena, con pronunciadas caídas al Valle de Liébana a lado y lado, pero los Picos de Europa se resisten a saludar. Un denso banco de nubes que se desplaza a muy poca velocidad está agarrado a la frontera natural entre Asturias y Cantabria, y solo pequeñas ventanas que se abren y cierran nos dejan distinguir la textura de la piedra que hay tras él. Pasando de largo el punto geodésico el camino continúa y a pocos metros ofrece un banco de madera a medio metro de un precipicio con el balcón perfecto a la esquiva cordillera. Con una pareja -que creíamos holandesa pero resultó ser lituana- siguiendo nuestros pasos, nos dirigimos hacia ese banco con el objetivo de pasar un rato a la espera de que las nubes nos den una alegría. Apenas hemos tardado un par de horas desde que iniciamos la subida y es mediodía, así que tenemos margen para ello.
 
+![El balcón a los Picos... dicen](P19_D01_08)
+![Un banco privilegiado](P19_D01_09)
+
 Ya sentados en el banco, los no-tan-holandeses nos alcanzan y se quedan mirando al horizonte cerca de nosotros, en lo que interpreto como una señal de que están esperando su turno para sentarse. Como no tenemos intención de irnos en breve, insto a L a que nos levantemos para que tengan su oportunidad de hacerlo. Pero peco de pardillo ya que cuando se sientan, sacan de sus mochilas sendos bocatas y no parecen tener intención de levantarse en breve. Así que no es hasta media hora después cuando recuperarmos nuestro trono y decidimos hacer lo mismo, echando mano de los bocadillos que nos hemos preparado esta mañana. Mientras tanto, los Picos siguen sin descubrirse.
+
+![Las nubes pasan pero siguen sin dejar ver](P19_D01_10)
+![Haciendo tiempo](P19_D01_11)
 
 Con el estómago lleno y la compañía ahora de una pareja francesa y otra que no conseguimos ubicar, son las 13:30 cuando volvemos a echarnos la mochila a la espalda convencidos de que ya no vamos a ver mayor porción de los Picos de Europa que la que se ha asomado entre las nubes hace unos minutos. Para la vuelta, siguiendo los consejos de San Anónimo, nos reenganchamos al sendero de a pie que traza un recorrido circular y al parecer no se deteriora tanto por la lluvia en su segunda mitad. Suenan cencerros cuando empezamos a perder altura y queda tras nosotros ese banco de madera en el que cada vez se concentra más gente.
 
+![El momento de mejor visibilidad](P19_D01_12)
+![El geodésico que hemos dejado atrás](P19_D01_13)
+![A falta de montañas, jugamos con los pueblos...](P19_D01_14)
+
 El descenso empieza ameno, con altiplanos de moqueta verde que siguen ofreciendo vistas a los Picos -si estuviera despejado, claro-. Nos esperan por delante unos cinco kilómetros en los que, durante los cuatro primeros, debemos perder los 500 metros de altitud hasta regresar a Dobarganes. La señalización es perfecta, y no sería necesario llevar con nosotros el "track" más allá que para consultar cuánto falta para alcanzar la meta. Poco a poco se va cerrando el valle y el sendero da paso a un hayedo que se agradece tras varios minutos con el sol tostándonos la nuca. Los últimos dos kilómetros son los más pesados y lentos, con un campo de visión ya muy reducido, tramos embarrados que nos obligan a hacer algunos malabares y unos últimos remontes que nuestras piernas acusan tras dos horas de descenso. Superamos un último y pequeño embalse y a las 15:20 estamos de nuevo en el coche, con otros seis vehículos aparcados junto al nuestro. Han sido poco más de cinco horas para subir, conquistar durante hora y media la cima y volver a bajar. Pese a no haber podido disfrutar de la guinda del pastel en el punto más alto, nos sentimos satisfechos. Eso sí, recomendamos encarecidaente seguir el consejo de San Anónimo para quien esté interesado en seguir nuestros pasos.
+
+![Todavía con vistas durante los primeros minutos de descenso](P19_D01_15)
+![Por ahí](P19_D01_16)
+![Y bajar, y bajar...](P19_D01_17)
+![Un embalse como último hito de la excursión](P19_D01_18)
 
 Volvemos a la carretera por poco tiempo, ya que nada más salir de Dobarganes y girar rumbo a Potes nos detenemos en un mirador que resulta prometer mucho más de lo que finalmente ofrece. Regresamos al volante para esta vez sí dirigirnos al siguiente hito del día. Al norte de nuestra posición, más allá de Potes y ya coqueteando con acercarse a Santander, se encuentra el [Desfiladero de La Hermida](https://es.wikipedia.org/wiki/Desfiladero_de_La_Hermida), un tramo de unos 20 kilómetros en el que la carretera transcurre dejando a lado y lado dos inmensas paredes de piedra separadas por el curso del Río Deva. A medio recorrer ese desfiladero se encuentra un desvío que lleva al [Mirador de Santa Catalina](https://es.wikipedia.org/wiki/Mirador_de_Santa_Catalina), supuestamente el balcón perfecto para ver desde las alturas ese sinuoso trazo de la carretera entre la roca.
 
@@ -36,16 +62,34 @@ Volvemos a la carretera por poco tiempo, ya que nada más salir de Dobarganes y 
 
 Lo de que era el balcón perfecto para ver el desfiladero no era ninguna exageración. Consiste en una pequeña plataforma metálica que se balancea al más mínimo paso sobre ella y cuyo suelo deja ver la caída de varios cientos de metros que nos separa de la carretera. Frente a nosotros, una panorámica de 180 grados en la que distinguir perfectamente el sinuoso recorrido del río en las profundidades con la carretera avanzando en paralelo a él. Entre esto y el banco a los pies de un precipicio del Pico Jano, ya he cubierto holgadamente mi cuota de vértigo del día. Regresamos al aparcamiento que, anteriormente vacío, ahora está atestaado de coches que nos obligan a maniobrar marcha atrás para poder iniciar el regreso.
 
+![Desfiladero de la Hermida desde el mirador (1)](P19_D01_19)
+![Desfiladero de la Hermida desde el mirador (y 2)](P19_D01_20)
+![Y el mirador en sí](P19_D01_21)
+
 Damos por finalizada la agenda del día y comenzamos ya el camino de vuelta a Cahecho, no sin antes parar a las puertas de Potes en un Centro de Visitantes de los Picos de Europa que ha captado nuestra atención cuando hemos pasado junto a él hace unos minutos. De acceso libre, encontramos en su interior una sucesión de salas con exposiciones e información sobre la flora, fauna y naturaleza geológica de la zona. Antes de abandonar el edificio aprovechamos que el empleado de la recepción no está atendiendo a nadie para pedirle consejo acerca de nuestros planes para mañana, día en el que tenemos previsto visitar [Fuente Dé](https://es.wikipedia.org/wiki/Fuente_D%C3%A9 "Fuente Dé, Cantabria") pero no tenemos claro si hacer una excursión en las alturas o descender a pie el tramo que habremos subido en teleférico. Nos enumera los pros y contras de ambas opciones para que tomemos nuestra decisión final con la mayor cantidad de información posible -spoiler: al final no haríamos ninguna de ellas-.
+
+![El decepcionante mirador del Centro de Interpretación](P19_D01_22)
 
 Aprovechamos nuestro último paso del día por Potes para rellenar el depósito a sabiendas de que el combustible es mucho más económico en Cantabria que en Castilla y León, donde entraremos mañana. Paramos también en un supermercado de la cadena [Lupa](https://www.lupa.com/ "Cadena de supermercados Lupa"), en el que encontramos un surtido mucho más completo y variado que en los Día. Nos abastecemos con lo necesario para hacer los bocadillos de mañana y añadir alguna alternativa a nuestras opciones de desayuno. En las estanterías destinadas a turistas que quieran llevarse algún recuerdo gastronómico reinan los sobaos y las quesadas.
 
 El reloj marca las 19:00 cuando estamos de nuevo en Cahecho, diez horas después de haber abandonado nuestro apartamento. Soltamos las mochilas y apenas caminamos 100 metros para visitar el Mirador de Liébana, una terraza que junto a nuestro apartamento ofrece vistas a todo el valle. El momento del día no es el ideal y el exceso de resol, sumado a las persistentes nubes, siguen privándonos de disfrutar de la silueta de los Picos de Europa. Irónicamente, sobre nuestras cabezas no hay una sola nube y nos debemos recordar a nosotros mismos que, viniendo de donde venimos, estos 26 grados que nos han acompañado toda la tarde no son calor.
 
+![Cahecho desde el Mirador de Liébana](P19_D01_25)
+![El amplio Mirador de Liébana](P19_D01_26)
+![Más casas de Cahecho](P19_D01_27)
+
 Pasamos ahora algo más de una hora descansando en -ya no por mucho tiempo- salón. El único pero que podemos ponerle a los Apartamentos Fuente de Somave es lo irregular de la conexión a Internet, obligándonos a pasar la mayor parte del tiempo consumiendo datos de nuestra tarifa móvil. Empiezo a procesar las fotos del día hasta que el estómago reclama nuestra atención. Tras una reparadora ducha, nos echamos a la calle con el objetivo de descubrir uno de los dos restaurantes disponibles en Cahecho. 
+
+![De nuevo en casa](P19_D01_23)
+![Una sola noche basta para tenerlo todo desordenado](P19_D01_24)
 
 Tras 200 metros de subida llegamos a [Peña Sagra](http://hosteria.psagra.com/p/restaurante-hosteria-pena-sagra.html "Restaurante-hostería Peña Sagra en Cahecho, Cantabria"), un complejo rural con vistas a todo Cahecho y que incluye entre sus instalaciones un restaurante que cuenta con buenas opiniones en varios portales de Internet. Nos convence lo que vemos en la carta, así que nos sentamos frente a un ventanal que ofrece unas muy dignas vistas a las montañas que empiezan a recibir la luz del atardecer.
 
 Sopa de cocido y filete para ella, plato combinado de croquetas para mí. Tarta de la casa y tarta de queso. Un refresco y, que empiece el show, una botella de sidra. Todo satisfactorio y por 36 euros más la propina para un camarero muy atento pero que esta vez no tiene el acento de Miguel Ángel Revilla. La botella de sidra la sirven con un tapón cuya apertura lateral permite escanciarla cómodamente me da la vida. Me lo apunto como posible recurso si quiero llevarme botellas en el maletero para mí y para mi familia.
 
+![Lo que como...](P19_D01_28)
+![... y lo que pago](P19_D01_29)
+
 Volvemos ya con las últimas luces del día al apartamento, previo paso de unos minutos más por el Mirador de Liébana que sigue sin mostrar su mejor cara debido al resol. Tras otra sesión de retoque de fotos dan las 23:00 y decidimos dar por acabado el día, temiendo que el tremendo alboroto que producen los niños -y sus padres...- en un apartamento vecino nos vayan a dificultar el descanso. Pero nada más lejos de la realidad: como si hubieran pulsado un interruptor -o quizás hayan usado cloroformo-, de repente se hace el más absoluto silencio y solo nuestra lluvia pregrabada nos acompaña mientras cerramos los ojos. Se acaba nuestro tiempo en Cahecho, aunque todavía quedan unas horas que arañarle al oeste de Cantabria durante la jornada de mañana.
+
+![Buenas noches, Cahecho](P19_D01_30)

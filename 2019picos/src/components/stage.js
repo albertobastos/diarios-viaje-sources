@@ -76,7 +76,7 @@ function processStageHtml({ photoCdn, photoFullFolder, photoThumbFolder }, html)
     `<a class="stage-gallery" href="${photoCdn}/${photoFullFolder}/$1.jpg"><img src="${withPrefix('img/lazyimg.gif')}" data-echo="${photoCdn}/${photoThumbFolder}/$1.jpg"$2></a>`
   );
   html = html.replace(
-    /<p><a class="stage-gallery" /,
+    /<p><a class="stage-gallery" /g,
     `<p class="${CUSTOM_CLASS_MEDIA_CONTAINER}"><a class="stage-gallery"`
   );
 
