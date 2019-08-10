@@ -5,8 +5,8 @@ const siteMetadata = {
   rootUrl: '/', // usado para links en el menú
   siteUrl: 'http://albertobastos.info/viajes/2019picos', // usado internamente por gatsby
   disqus: "picos-2019-diario-de-viaje",
-  "photoCdn": "http://localhost:8001/2019picos",
-  //photoCdn: "http://d3bhx6meigp7tf.cloudfront.net/2019picos",
+  //"photoCdn": "http://localhost:8001/2019picos",
+  photoCdn: "http://d3bhx6meigp7tf.cloudfront.net/2019picos",
   photoFullFolder: 'large',
   photoThumbFolder: 'thumb',
   //analytics: "UA-329917-999",
