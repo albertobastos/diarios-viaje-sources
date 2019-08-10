@@ -9,7 +9,7 @@ const siteMetadata = {
   photoCdn: "http://d3bhx6meigp7tf.cloudfront.net/2019picos",
   photoFullFolder: 'large',
   photoThumbFolder: 'thumb',
-  //analytics: "UA-329917-999",
+  analytics: "UA-329917-26",
   flags: {
     showBudget: true,
     showExtras: true,
@@ -51,6 +51,6 @@ if (siteMetadata.analytics) {
 
 module.exports = {
   siteMetadata,
-  pathPrefix: `/viajes/2018pirineos`, // only for production
+  pathPrefix: `/viajes/2019picos`, // only for production
   plugins,
 }

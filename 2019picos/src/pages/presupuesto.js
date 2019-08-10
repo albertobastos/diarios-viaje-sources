@@ -16,7 +16,7 @@ export default ({ data }) => {
           <h2 className="w3-wide">Presupuesto</h2>
           <h3 className="w3-wide custom-date">¿Cuánto ha costado el viaje?</h3>
         </div>        
-        <div className="w3-container w3-content w3-padding-32 custom-inner custom-stage">        
+        <div className="w3-container w3-content w3-padding-32 custom-inner custom-stage">
           <table className="custom-budget">
             {data.allBudgetJson.edges.map(({ node }) => {
               return (

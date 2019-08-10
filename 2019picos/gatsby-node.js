@@ -35,7 +35,6 @@ exports.createPages = ({ graphql, actions }) => {
                 title,
                 description,
                 index,
-                map,
                 date
               }
               html

@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-generic-diario",
+  "name": "diario-viaje-picos-2019",
   "private": true,
-  "description": "Un diario de viaje genérico creado con GatsbyJS",
+  "description": "Diario de viaje a los Picos de Europa 2019 (construido con Gatsby)",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -13,20 +13,20 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
   },
   "dependencies": {
-    "disqus-react": "^1.0.5",
-    "gatsby": "^2.3.23",
-    "gatsby-plugin-google-analytics": "^2.0.18",
-    "gatsby-plugin-react-helmet": "^3.0.12",
-    "gatsby-plugin-sitemap": "^2.0.12",
-    "gatsby-source-filesystem": "^2.0.28",
-    "gatsby-transformer-json": "^2.1.11",
-    "gatsby-transformer-remark": "^2.3.8",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-helmet": "^5.2.0"
+    "disqus-react": "^1.0.6",
+    "gatsby": "^2.13.57",
+    "gatsby-plugin-google-analytics": "^2.1.7",
+    "gatsby-plugin-react-helmet": "^3.1.3",
+    "gatsby-plugin-sitemap": "^2.2.6",
+    "gatsby-source-filesystem": "^2.1.9",
+    "gatsby-transformer-json": "^2.2.2",
+    "gatsby-transformer-remark": "^2.6.12",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-helmet": "^5.2.1"
   },
   "devDependencies": {
-    "prettier": "^1.16.4"
+    "prettier": "^1.18.2"
   },
   "repository": {
     "type": "git",

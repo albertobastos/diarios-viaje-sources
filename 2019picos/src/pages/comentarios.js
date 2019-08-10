@@ -12,7 +12,13 @@ export default ({ data }) => (
         <meta name="Description" content="Comentarios de los usuarios"></meta>
       </Helmet>
       <Layout>
-        <DiscussionEmbed shortname={data.site.siteMetadata.disqus}></DiscussionEmbed>
+        <div className="w3-container w3-center custom-banner-head">
+          <h2 className="w3-wide">Comentarios</h2>
+          <h3 className="w3-wide custom-date">Pregunta lo que quieras</h3>
+        </div>        
+        <div className="w3-container w3-content w3-padding-32 custom-inner custom-stage">
+          <DiscussionEmbed shortname={data.site.siteMetadata.disqus}></DiscussionEmbed>
+        </div>
       </Layout>
     </div>
   )

@@ -207,10 +207,3 @@ body {
     float: left;
   }
 }
-
-@media(min-width: 1680px) {
-  .custom-video-item {
-    width: 33%;
-    float: left;
-  }
-}
