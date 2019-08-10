@@ -66,6 +66,8 @@ Cuando son las 15:15 y llegamos al desvío para entrar en Abantro, tomamos la sa
 
 Son las 15:45 cuando estamos de nuevo en nuestro apartamento de Los Cascayos, ansiosos por disfrutar de una ducha que nos quite el pedazo de Cascada del Tabayón que hemos traído con nosotros. Nos queda por delante toda la tarde para descansar y planificar los días venideros, sabiendo que la previsión de tormentas para mañana nos va a obligar a algún pequeño reajuste en la agenda.
 
+[Subida hasta el Apartamento Rural Los Cascayos](https://www.youtube.com/watch?v=IRvfCSduOtU)
+
 El resto de la jornada la pasamos dentro del apartamento echando mano de la conexión de datos para planificar tanto el resto del viaje como el "Prime Day" de Amazon que se celebrará dentro de dos días. Estar de vacaciones no está reñido con los caprichos y la caza de gangas. Durante la tarde nos acompaña el intermitente hilo musical del vecino, que lo mismo canturrea un "Malamente" de Rosalía que un "Don't go breaking my heart" de Elton John mientras se pasea por la casa. Cenamos el resto de cosas que compramos ayer en [Alimerka](https://www.alimerka.es "Cadena de supermercados Alimerka") y nos vamos a dormir sabiendo lo poco que nos espera mañana, jornada en la que pasaremos más tiempo sentados en el coche o en una mesa de restaurante que caminando. Oviedo aguarda.
 
 ![Consecuencias del calor](P19_D04_17)
