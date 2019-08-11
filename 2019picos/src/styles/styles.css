@@ -130,17 +130,6 @@ body {
   font-weight: bold;
 }
 
-/* Ensure lightbox modal and image are shown on top of navbar */
-.lum-lightbox {
-  z-index: 2;
-}
-
-/* Improve lightbox images readability with some background */
-.lum-lightbox-caption {
-  background-color: rgba(0,0,0,.7);
-  padding: .2em !important;
-}
-
 /* budget styles */
 
 .custom-budget {
@@ -206,4 +195,17 @@ body {
     width: 50%;
     float: left;
   }
+}
+
+/* SimpleLightbox custom */
+
+.slbImage {
+  padding: 4em 0;
+}
+
+.slbCaption {
+  background-color: rgba(255, 255, 255, .8);
+  color: #000;
+  font-size: 1.1em;
+  bottom: 10px;
 }

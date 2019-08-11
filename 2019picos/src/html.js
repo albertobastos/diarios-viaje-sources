@@ -19,7 +19,7 @@ export default function HTML(props) {
         <link rel="stylesheet" href="//www.w3schools.com/w3css/4/w3.css"></link>
         <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto" rel="stylesheet"></link>
         <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"></link>
-        <link rel="stylesheet" href={withPrefix('ext/luminous/luminous-basic.min.css')}></link>
+        <link rel="stylesheet" href={withPrefix('ext/simplelightbox/simplelightbox.min.css')}></link>
         {/* start cookie consent */}
         <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
         <script src="//cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
@@ -37,7 +37,7 @@ export default function HTML(props) {
         />
         {props.postBodyComponents}
       </body>
-      <script src={withPrefix('ext/luminous/luminous.min.js')}></script>
+      <script src={withPrefix('ext/simplelightbox/simplelightbox.min.js')}></script>
       <script src={withPrefix('ext/echo/echo.min.js')}></script>
     </html>
   )

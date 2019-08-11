@@ -28,31 +28,28 @@ exports.onRouteUpdate = ({ location, prevLocation }) => {
         unload: false
     });
 
-    // image lightbox (stage map)
-    const mapLink = document.querySelector(".custom-stage-map");
-    if (mapLink) {
-        window.Luminous && new window.Luminous(
-            mapLink,
-            {
-                caption: function (trigger) {
-                    return trigger.querySelector("img").getAttribute("alt");
-                }
-            }
-        );
-    }
+    // lightbox (stage map & photos)
+    if(window.SimpleLightbox) {
+        const map = document.querySelector('.custom-stage-map');
+        const photos = document.querySelectorAll('.custom-stage-media a');
 
-    // image lightbox (stage photos)
-    window.Luminous && new window.LuminousGallery(
-        document.querySelectorAll(".custom-stage-media a"),
-        {
-            arrowNavigation: true
-        },
-        {
-            caption: function (trigger) {
-                return trigger.querySelector("img").getAttribute("alt");
-            }
-        }
-    );
+        window.SimpleLightbox.defaults = {
+            ...window.SimpleLightbox.defaults,
+            closeBtnCaption: 'Cerrar',
+            nextBtnCaption: 'Siguiente',
+            prevBtnCaption: 'Anterior',
+            loadingCaption: 'Cargando...',
+        };
+
+        // copy image alt/title o wrapper link title
+        // (SimpleLightbox only supports captions based on link attributes)
+        [map, ...photos].forEach(a => {
+            try { a.title = a.children[0].alt; } catch(err) {}
+        });
+
+        new window.SimpleLightbox({elements: map}); // map
+        new window.SimpleLightbox({elements: photos}); // stage photos
+    }
 
     // stage links (show container only when at least one link exists)
     let stageLinksFooter = document.querySelector('div.custom-stage-links-footer');
