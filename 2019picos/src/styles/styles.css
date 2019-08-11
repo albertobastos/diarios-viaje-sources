@@ -40,6 +40,12 @@ body {
   margin: 1px 0;
 }
 
+@media(max-width: 360px) {
+  .custom-stage-media img {
+    max-width: 320px;
+  }
+}
+
 .custom-date {
   font-style: italic;
 }
