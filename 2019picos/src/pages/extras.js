@@ -17,7 +17,7 @@ export default ({ data }) => {
       </div>
       <div className="w3-container w3-content w3-padding-32 custom-inner custom-stage"> 
         {data.allMultimediaJson.edges.map(({ node }) => (
-          <div key={node.id} className="custom-video-item">
+          <div key={node.id} className={`custom-video-item ${node.big ? 'big' : ''}`}>
             <p>{node.title}</p>
             <div className="iframe-outer">
               <div><iframe title={`video_${node.youtube}`} src={`https://www.youtube.com/embed/${node.youtube}?rel=0`} allowfullscreen></iframe></div>
@@ -42,6 +42,7 @@ export const query = graphql`
         node {
             title
             youtube
+            big
         }
       }
     }

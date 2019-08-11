@@ -178,6 +178,15 @@ body {
   max-width: 640px;
 }
 
+.custom-video-item.big .iframe-outer {
+  max-width: none;
+}
+
+.custom-video-item.big p {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
 .custom-video-item .iframe-outer div {
   position: relative;
   padding-top: 56.28%;
@@ -200,6 +209,10 @@ body {
   .custom-video-item {
     width: 50%;
     float: left;
+  }
+
+  .custom-video-item.big {
+    width: 100%;
   }
 }
 
