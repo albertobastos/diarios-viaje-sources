@@ -200,12 +200,12 @@ body {
 /* SimpleLightbox custom */
 
 .slbImage {
-  padding: 4em 0;
+  padding: 4em 0 !important;
 }
 
 .slbCaption {
-  background-color: rgba(255, 255, 255, .8);
-  color: #000;
-  font-size: 1.1em;
-  bottom: 10px;
+  background-color: rgba(255, 255, 255, .8) !important;
+  color: #000 !important;
+  font-size: 1.1em !important;
+  bottom: 10px !important;
 }
