@@ -1,0 +1,38 @@
+{
+  "name": "diario-viaje-picos-2019",
+  "private": true,
+  "description": "Diario de viaje a los Picos de Europa 2019 (construido con Gatsby)",
+  "version": "0.1.0",
+  "license": "MIT",
+  "scripts": {
+    "develop": "gatsby clean && gatsby develop",
+    "format": "prettier --write src/**/*.{js,jsx}",
+    "start": "npm run develop",
+    "serve-build": "gatsby clean && gatsby build && gatsby serve -o",
+    "build": "gatsby clean && gatsby build --prefix-paths",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\""
+  },
+  "dependencies": {
+    "disqus-react": "^1.0.6",
+    "gatsby": "^2.13.57",
+    "gatsby-plugin-google-analytics": "^2.1.7",
+    "gatsby-plugin-react-helmet": "^3.1.3",
+    "gatsby-plugin-sitemap": "^2.2.6",
+    "gatsby-source-filesystem": "^2.1.9",
+    "gatsby-transformer-json": "^2.2.2",
+    "gatsby-transformer-remark": "^2.6.12",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-helmet": "^5.2.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+  },
+  "bugs": {
+    "url": "https://github.com/gatsbyjs/gatsby/issues"
+  }
+}
