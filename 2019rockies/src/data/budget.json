@@ -1,11 +1,90 @@
 [
   {
+    "title": "Transporte",
+    "entries": [
+      {
+        "description": "Vuelo de ida y vuelta de la compañía <strong>Iberia</strong> para dos personas incluyendo equipaje de <strong>Palma de Mallorca</strong> a <strong>Madrid</strong>. Incluye descuento para residentes baleares.",
+        "price_eur": 102.88
+      },
+      {
+        "description": "Vuelo de la compañía <strong>Air France</strong> para dos personas incluyendo equipaje de <strong>Madrid</strong> a <strong>Vancouver</strong> con escala en Amsterdam.",
+        "price_eur": 817.10
+      },
+      {
+        "description": "Vehículo de alquiler de la compañía <strong>AVIS. Coche de la categoría <strong>Intermediate SUV</strong> con recogida y devolución en el aeropuerto de Vancouver y un total de 15 días.",
+        "price_cad": 475.2,
+        "price_eur": 329.29
+      }      
+    ]
+  },  
+  {
+    "title": "Otros",
+    "entries": [
+      {
+        "description": "Solicitudes telemáticas de la <strong>eTA</strong> (Electronic Travel Authorization) necesarias para acceder a Canadá.",
+        "price_cad": 14,
+        "price_eur": 9.32
+      },
+      {
+        "description": "Seguro de viaje contratado con <strong>Columbus Direct</strong> con cobertura de hasta 14 millones de euros en gastos médicos.",
+        "price_eur": 135.15
+      }
+    ]
+  },
+  {
+    "title": "Alojamiento",
+    "entries": [
+      {
+        "description": "1 noche en el Hotel Nuevo Boston cercano al <strong>Aeropuerto de Madrid</strong>. Reservado a través del portal <strong>centraldereservas.com</strong>.",
+        "price_eur": 58.55
+      },
+      {
+        "description": "1 noche en un pequeño estudio con cocina y baño privado en <strong>Chilliwack</strong> (Columbia Británica). Contratado a través de <strong>AirBnb</strong>.",
+        "price_eur": 46.32
+      },
+      {
+        "description": "1 noche en una habitación privada con baño compartido en <strong>Dunster</strong> (Columbia Británica). Contratado a través de <strong>Airbnb</strong>.",
+        "price_eur": 44.39
+      },
+      {
+        "description": "2 noches en un apartamento sin cocina, con baño privado y microondas en <strong>Jasper</strong>'s Acommodations (Alberta). Reservado directamente a través de su página web.",
+        "price_cad": 180,
+        "price_eur": 122.53
+      },
+      {
+        "description": "4 noches en un apartamento sin cocina y con baño privado en Alpine B&B de <strong>Banff</strong> (Alberta). Reservado vía contacto directo, pagando media reserva de forma anticipada y la otra mitad en efectivo al llegar.",
+        "price_cad": 540,
+        "price_eur": 366.37
+      },
+      {
+        "description": "1 noche en sótano sin cocina y con baño privado en <strong>Fort Macleod</strong> (Alberta). Reservado a través de <strong>AirBnb</strong>.",
+        "price_eur": 67.19
+      },
+      {
+        "description": "2 noches en una cabaña con baño privado y microondas de Glacier Trailhead Cabins en <strong>Saint Mary</strong> (Montana). Reservado a través de su propia página web, primera mitad de forma anticipada y segunda mitad en el momento de la llegada.",
+        "price_usd": 383.06,
+        "price_eur": 342.66
+      },
+      {
+        "description": "1 noche en habitación privada con baño compartido en <strong>Kalispell</strong> (Montana). Contratado a través de <strong>AirBnb</strong>.",
+        "price_eur": 69.07
+      },
+      {
+        "description": "1 noche en apartamento completo en una granja de <strong>Duvall</strong> (Washington). Contratado a través de <strong>AirBnb</strong>.",
+        "price_eur": 72.61
+      },
+      {
+        "description": "1 noche en apartamento completo en <strong>Richmond</strong> (Columbia Británica). Contratado a través de <strong>AirBnb</strong>.",
+        "price_eur": 50.79
+      }
+    ]
+  },
+  {
     "title": "xxx",
     "entries": [
       {
         "description": "xxx",
-        "price_eur": 0,
-        "price_usd": 0
+        "price_eur": 0
       }
     ]
   }

@@ -23,14 +23,14 @@ export default ({ data }) => {
                 <tbody key={node.id}>
                   <tr className="custom-budget-section">
                     <td>{node.title}</td>
-                    <td>USD</td>
+                    <td>CAD/USD</td>
                     <td>EUR</td>
                   </tr>
                   {node.entries.map((entry, index) => {
                     return (
                       <tr key={`${node.id}_${index}`} className="custom-budget-item">
-                        <td>{entry.description}</td>
-                        <td>{currencyStr(entry.price_usd)}€</td>
+                        <td dangerouslySetInnerHTML={{ __html: entry.description }}></td>
+                        <td>{currencyFor(entry)}</td>
                         <td>{currencyStr(entry.price_eur)}€</td>
                       </tr>
                     )
@@ -65,8 +65,9 @@ export const query = graphql`
             title
             entries {
                 description
-                price_eur
+                price_cad
                 price_usd
+                price_eur
             }
         }
       }
@@ -80,6 +81,11 @@ function getTotalEur(data) {
     .reduce((arr, entries) => arr.concat(entries), [])
     .reduce((sum, entry) => sum + entry.price_eur, 0);
   return sum;
+}
+
+function currencyFor(entry) {
+  if(entry.price_cad) return currencyStr(entry.price_cad) + '$CAD';
+  if(entry.price_usd) return currencyStr(entry.price_usd) + '$USD';
 }
 
 function currencyStr(n) {
