@@ -148,6 +148,7 @@ body {
 
 .custom-budget td+td {
   text-align: right;
+  min-width: 6em;
 }
 
 .custom-budget-section {

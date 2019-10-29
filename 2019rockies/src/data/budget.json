@@ -14,12 +14,26 @@
         "description": "Vehículo de alquiler de la compañía <strong>AVIS. Coche de la categoría <strong>Intermediate SUV</strong> con recogida y devolución en el aeropuerto de Vancouver y un total de 15 días.",
         "price_cad": 475.2,
         "price_eur": 329.29
-      }      
+      },
+      {
+        "description": "Cinco repostajes de <strong>gasolina</strong> en estaciones de servicio <strong>PetroCanada</strong>.",
+        "price_cad": 172.25,
+        "price_eur": 117.61
+      },
+      {
+        "description": "Dos repostajes de <strong>gasolina</strong> en estación de servicio <strong>Conoco</strong> y <strong>Chevron</strong>.",
+        "price_cad": 54,
+        "price_eur": 49.01
+      }
     ]
   },  
   {
     "title": "Otros",
     "entries": [
+      {
+        "description": "Tarjeta <strong>SIM</strong> prepago de Vodafone con Tarifa Mi País, incluyendo 800 minutos y 8 GB de datos desde los Estados Unidos.",
+        "price_eur": 15
+      },
       {
         "description": "Solicitudes telemáticas de la <strong>eTA</strong> (Electronic Travel Authorization) necesarias para acceder a Canadá.",
         "price_cad": 14,
@@ -28,6 +42,35 @@
       {
         "description": "Seguro de viaje contratado con <strong>Columbus Direct</strong> con cobertura de hasta 14 millones de euros en gastos médicos.",
         "price_eur": 135.15
+      },
+      {
+        "description": "Pase anual a la red de Parques Nacionales de <strong>Parks Canada</strong>, comprado de segunda mano.",
+        "price_eur": 45
+      },
+      {
+        "description": "Pase de 7 días para el <strong>Glacier National Park</strong>.",
+        "price_usd": 35,
+        "price_eur": 31.76
+      },
+      {
+        "description": "Reserva para dos personas en el autobús de las 8:30 a <strong>Lake O'Hara</strong> en el Parque Nacional de Yoho.",
+        "price_cad": 38.40,
+        "price_eur": 25.58
+      },
+      {
+        "description": "Tiempo de lavadora y secadora en la <strong>Cascade Coin Laundry</strong> de <strong>Banff</strong>.",
+        "price_cad": 9,
+        "price_eur": 6.19
+      },
+      {
+        "description": "Combo para dos personas de teleférico + telesilla en <strong>Sunshine Meadows</strong>.",
+        "price_cad": 94.5,
+        "price_eur": 64.79
+      },
+      {
+        "description": "Tasas del pase fronterizo entre Canadá y Estados Unidos en <strong>Montana</strong>.",
+        "price_usd": 12,
+        "price_eur": 10.89
       }
     ]
   },
@@ -80,11 +123,27 @@
     ]
   },
   {
-    "title": "xxx",
+    "title": "Supermercados y restauración",
     "entries": [
       {
-        "description": "xxx",
-        "price_eur": 0
+        "description": "Compras de supermercado en Canadá, en establecimientos de las cadenas <strong>Walmart</strong>, <strong>Save On Foods</strong>, <strong>Super Save</strong>, <strong>Robinsons</strong> e <strong>IGA</strong>.",
+        "price_cad": 390.29,
+        "price_eur": 276.96
+      },
+      {
+        "description": "Compras de supermercado en Estados Unidos, en establecimientos de las cadenas <strong>Trader Joe's</strong> y <strong>7-Eleven</strong>.",
+        "price_usd": 46,
+        "price_eur": 41.72
+      },
+      {
+        "description": "Desayunos en establecimientos de las cadenas <strong>Starbucks</strong> y <strong>McDonalds</strong>.",
+        "price_cad": 83.56,
+        "price_eur": 55.58
+      },
+      {
+        "description": "Desayuno en establecimiento de la cadena <strong>Starbucks</strong> de Marysville.",
+        "price_usd": 9.6,
+        "price_eur": 8.72
       }
     ]
   }

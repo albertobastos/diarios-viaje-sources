@@ -31,7 +31,7 @@ export default ({ data }) => {
                       <tr key={`${node.id}_${index}`} className="custom-budget-item">
                         <td dangerouslySetInnerHTML={{ __html: entry.description }}></td>
                         <td>{currencyFor(entry)}</td>
-                        <td>{currencyStr(entry.price_eur)}€</td>
+                        <td>{currencyStr(entry.price_eur)} €</td>
                       </tr>
                     )
                   })}
@@ -41,7 +41,7 @@ export default ({ data }) => {
             <tbody>
               <tr className="custom-budget-total">
                 <td>TOTAL (2 personas)</td>
-                <td colSpan={2}>{currencyStr(totalEur)}€</td>
+                <td colSpan={2}>{currencyStr(totalEur)} €</td>
               </tr>
             </tbody>
           </table>
@@ -84,8 +84,8 @@ function getTotalEur(data) {
 }
 
 function currencyFor(entry) {
-  if(entry.price_cad) return currencyStr(entry.price_cad) + '$CAD';
-  if(entry.price_usd) return currencyStr(entry.price_usd) + '$USD';
+  if(entry.price_cad) return currencyStr(entry.price_cad) + ' $CAD';
+  if(entry.price_usd) return currencyStr(entry.price_usd) + ' $USD';
 }
 
 function currencyStr(n) {
