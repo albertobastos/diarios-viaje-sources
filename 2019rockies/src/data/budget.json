@@ -144,6 +144,36 @@
         "description": "Desayuno en establecimiento de la cadena <strong>Starbucks</strong> de Marysville.",
         "price_usd": 9.6,
         "price_eur": 8.72
+      },
+      {
+        "description": "Cena para llevar de <strong>Lou Lou's Pizzeria</strong> en Jasper, Alberta. Dos hamburguesas con queso y un poutine de pollo.",
+        "price_cad": 33,
+        "price_eur": 22.99
+      },
+      {
+        "description": "Cena para llevar de <strong>Lou Lou's Pizzeria</strong> en Jasper, Alberta. Una pizza y un poutine.",
+        "price_cad": 31.19,
+        "price_eur": 21.73
+      },
+      {
+        "description": "Comida en el local <strong>Tommy's Neighbourhood</strong> de Banff, Alberta. Una quesadilla y una hamburguesa junto a bebidas.",
+        "price_cad": 41.20,
+        "price_eur": 28.22
+      },
+      {
+        "description": "Cena en el local de la hamburguesería <strong>Five Guys</strong> en Kalispell, Montana. Dos hamburguesas, una ración de patatas mediana y dos bebidas rellenables.",
+        "price_usd": 22.44,
+        "price_eur": 20.36
+      },
+      {
+        "description": "Comida en el local de la cadena <strong>Applebee's</strong> en Spokane, Washington. Solomillo de 200gr y filete con salsa bourbon más bebidas.",
+        "price_usd": 51.06,
+        "price_eur": 40.29
+      },
+      {
+        "description": "Comida en el local de la cadena <strong>Applebee's</strong> en Marysville, Washington. Menú \"2 for 27$\" con alitas sin hueso, costillas de cerdo pequeñas y pollo con gambas, más bebidas.",
+        "price_usd": 44.85,
+        "price_eur": 40.60
       }
     ]
   }
