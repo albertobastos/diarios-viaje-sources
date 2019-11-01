@@ -30,7 +30,7 @@ exports.onRouteUpdate = ({ location, prevLocation }) => {
 
     // lightbox (stage map & photos)
     if(window.SimpleLightbox) {
-        const map = document.querySelector('.custom-stage-map');
+        const map = document.querySelectorAll('.custom-stage-map');
         const photos = document.querySelectorAll('.custom-stage-media a');
 
         window.SimpleLightbox.defaults = {
