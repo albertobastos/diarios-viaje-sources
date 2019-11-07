@@ -7,7 +7,6 @@ export default ({ children }) => (
             className="fa fa-instagram w3-hover-opacity"></i></a>
         <a href="http://www.youtube.com/user/albertobastos" target="_blank" rel="noopener noreferrer"><i
             className="fa fa-youtube w3-hover-opacity"></i></a>
-        <p className="w3-medium">&copy; Alberto Bastos 2019 | <a href="https://www.gatsbyjs.org/" target="_blank" rel="noopener noreferrer">GatsbyJS</a> &amp;
-      <a href="https://www.w3schools.com/CSS/css_rwd_templates.asp" target="_blank" rel="noopener noreferrer">W3.CSS</a></p>
+        <p className="w3-medium">&copy; Alberto Bastos 2019 | <a href="https://www.gatsbyjs.org/" target="_blank" rel="noopener noreferrer">GatsbyJS</a> &amp; <a href="https://www.w3schools.com/CSS/css_rwd_templates.asp" target="_blank" rel="noopener noreferrer">W3.CSS</a></p>
     </footer>
 )
