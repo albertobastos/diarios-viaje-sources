@@ -12,7 +12,7 @@ No salimos a la calle hasta las 7:15. Nos reciben nueve grados y bastante clarid
 
 ![Amanece en Jasper](R19D0301)
 
-Conducimos durante poco menos de una hasta [Maligne Lake](https://es.wikipedia.org/wiki/Lago_Maligne). Por ahora no se nos aparece ningún oso junto al que detenerse mientras desayuna en el arcén. Pasamos de largo el lago y, tras cruzar un puente, estacionamos en el último de los aparcamientos de la zona recreativa. Los dos grados que marca el termómetro nos llevan a abrir la puerta del coche con miedo a lo que nos espera fuera, pero es soportable.
+Conducimos durante poco menos de una hora hasta [Maligne Lake](https://es.wikipedia.org/wiki/Lago_Maligne). Por ahora no se nos aparece ningún oso junto al que detenerse mientras desayuna en el arcén. Pasamos de largo el lago y, tras cruzar un puente, estacionamos en el último de los aparcamientos de la zona recreativa. Los dos grados que marca el termómetro nos llevan a abrir la puerta del coche con miedo a lo que nos espera fuera, pero es soportable.
 
 La agenda de hoy tiene como hito principal la [excursión hasta Bald Hills](https://es.wikiloc.com/rutas-senderismo/can-15-lago-maligno-y-bald-hills-maligne-lake-and-bald-hills-10236891 "Excursión a Bald Hills (wikiloc)"), unas colinas al sur de uno de los lagos más populares de Jasper. Mientras que la mayoría de turistas se limitan a pasear por los alrededores del lago disfrutando de canoas de alquiler y la tienda de regalos, llegar hasta aquí ofrece una panorámica con una mejor percepción de la extensión del lago y su ecosistema. Se trata de un itinerario que, a priori, solo requiere de 12 kilómetros para alcanzar los mejores miradores y regresar al aparcamiento. Y hago especial hincapié en lo de "a priori".
 
