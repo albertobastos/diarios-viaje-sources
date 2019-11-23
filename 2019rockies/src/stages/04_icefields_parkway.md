@@ -81,4 +81,4 @@ Antes de regresar a casa solo queda un objetivo: conseguir la cena para hoy. Y n
 
 ![Ay quién maneja mi sushi...](R19D0419)
 
-Dando el visto bueno al extraño refresco y disfrutando del ecclair de postre -que dura será la dieta cuando volvamos a casa...-, dan las 22:00 cuando ya nos hemos duchado y estamos listos para apagar luces mientras oímos llegar a los vecinos del último cuarto que faltaba por ocupar en el sótano de este Alpine B&B. No ha sido el mejor día, pero ya estamos donde debemos estar.
+Dando el visto bueno al extraño refresco y disfrutando del ecclair de postre -qué dura será la dieta cuando volvamos a casa...-, dan las 22:00 cuando ya nos hemos duchado y estamos listos para apagar luces mientras oímos llegar a los vecinos del último cuarto que faltaba por ocupar en el sótano de este Alpine B&B. No ha sido el mejor día, pero ya estamos donde debemos estar.
