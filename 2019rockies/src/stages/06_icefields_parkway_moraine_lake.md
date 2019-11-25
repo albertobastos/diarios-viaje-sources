@@ -1,12 +1,12 @@
 ---
-title: TODO
-description: TODO
+title: Icefields Parkway y Moraine Lake, ahora sin lluvia
+description: Paradas en la Icefields Parkway y atardecer en Moraine Lake, corrigiendo los problemas con la meteorología de días pasados.
 index: 8
 map: 
 date: "2 de septiembre de 2019"
 private: false
 ---
-630. Al quitat la lluvia, suenan ronquidos.
+6 y 30. Al quitat la lluvia, suenan ronquidos.
 
 2 euros por 37 segundos de O2. Mientras Vodafone sigue con mensaje de saldo insuficiente.
 
@@ -46,5 +46,3 @@ Creo haberme puesto en un lugar imposible de penetrar... hasta que dos. Chixas e
 Musa bajando a oscuras. 
 
 Llegar a Banff, repostar, comprar cena y comida, cenar, ducharse y dormir en tiempo récord, malana a las seis y esperamls que con la tarde más relajada. Susana ha podido ir. Ahora nos toca a nosotros. 
-
-
