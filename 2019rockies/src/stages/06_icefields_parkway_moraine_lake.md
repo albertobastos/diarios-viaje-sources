@@ -8,7 +8,7 @@ private: false
 ---
 Este nuevo día en la turística ciudad de [Banff](https://es.wikipedia.org/wiki/Banff "Banff, Alberta") no comienza para nosotros hasta las 6:30, momento en el que apagamos el ruido de blanco de lluvia que nos acompaña todas las noches y el silencio descubre unos ronquidos cercanos que no habíamos escuchado hasta entonces.
 
-Siendo tan temprano, nos desperezamos viendo por las redes qué nos hemos perdido durante las últimas horas. Ya podeoms ver cuánto nos ha costado la llamada que tuvimos que realizar con O2 a nuestro anfitrión: 2 euros por 37 segundos de conversión. Mientras tanto, la SIM de prepago de Vodafone sigue cogiendo polvo ya que sus ambiguas condiciones no daban a entender que no pudiéramos hacer llamadas desde Canadá. 
+Siendo tan temprano, nos desperezamos viendo por las redes qué nos hemos perdido durante las últimas horas. Ya podemos ver cuánto nos ha costado la llamada que tuvimos que realizar con O2 a nuestro anfitrión: 2 euros por 37 segundos de conversión. Mientras tanto, la SIM de prepago de Vodafone sigue cogiendo polvo ya que sus ambiguas condiciones no daban a entender que no pudiéramos hacer llamadas desde Canadá. 
 
 Alcanzamos las 8:00 cuando abandonamos nuestro pequeño apartamento. El termómetro marca 10 grados pero la sensación de frío es mayor debido a la tremenda humedad con la que Banff ha amanecido. Sus calles, a esta hora, siguen siendo extrañamente tranquilas para un lugar tan concurrido por el turismo. Nos dirigimos al [McDonalds de Banff Avenue](https://www.tripadvisor.es/Restaurant_Review-g154911-d970783-Reviews-McDonald_s-Banff_Banff_National_Park_Alberta.html) para un nuevo desayuno antes de lanzarnos a nuestra expedición entre glaciares.
 
@@ -35,7 +35,7 @@ A ritmo de podcasts de La Vida Moderna y La Competència entramos en el aparcami
 
 ![Y esto, amigos, es un "joyo"](R19D0604)
 
-Y para arriba que vamos. El tramo de subida de Parker Ridge que se inicia desde el mismo aparcamiento consiste en unos escasos dos kilómetros, pero con una pendiente prinunciada. Tras cada avance de aproximadamente 250 metros nos detenemos para recuperar el aire y disfrutar de las crecientes vistas, hacia el valle si giramos la vista atrás y hacia el helado y deslumbrante Monte Athabasca si miramos hacia la derecha en el sentido de la subida.
+Y para arriba que vamos. El tramo de subida de Parker Ridge que se inicia desde el mismo aparcamiento consiste en unos escasos dos kilómetros, pero con una pendiente pronunciada. Tras cada avance de aproximadamente 250 metros nos detenemos para recuperar el aire y disfrutar de las crecientes vistas, hacia el valle si giramos la vista atrás y hacia el helado y deslumbrante Monte Athabasca si miramos hacia la derecha en el sentido de la subida.
 
 ![Ganando altura](R19D0605)
 
@@ -46,7 +46,7 @@ Tras los dos primeros kilómetros la subida se desvía a la derecha, en direcci�
 ![Te echábamos de menos, Saskatchewan](R19D0607)
 ![Allí donde las lenguas se tornan lagunas](R19D0608)
 
-Nos detenemos. Hacemos cientos de fotos. Caminamos diez metros más. Hacemos cien fotos más. Volvemos a avanzar, nos paramos, y seguimos repitiendo el cielo hasta alcanzar la señal que indica que el camino termina y no nos podemos alejar más para ganar ángulo de visión. Pasamos en este extremo un largo rato almorzando, y con L reafirmándose en que es uno de sus lugares preferidos. Cuando ya hemos grabado a fuego la panorámica en nuestras retinas, emprendemos el camino de vuelta para alcanzar nuestro coche a las 14:45.
+Nos detenemos. Hacemos cientos de fotos. Caminamos diez metros más. Hacemos cien fotos más. Volvemos a avanzar, nos paramos, y seguimos repitiendo el ciclo hasta alcanzar la señal que indica que el camino termina y no nos podemos alejar más para ganar ángulo de visión. Pasamos en este extremo un largo rato almorzando, y con L reafirmándose en que es uno de sus lugares preferidos. Cuando ya hemos grabado a fuego la panorámica en nuestras retinas, emprendemos el camino de vuelta para alcanzar nuestro coche a las 14:45.
 
 ![Hasta ahí debemos volver](R19D0610)
 
@@ -71,7 +71,7 @@ Nos quedan por delante 180 kilómetros que deshacer hasta regresar a Banff, los 
 
 La subida a [Moraine Lake](https://es.wikipedia.org/wiki/Lago_Moraine), como era de esperar, nos recibe cerrada como consecuencia de que el aparcamiento junto al lago debe estar completo. Nos detenemos en la cercana area recreativa desde la que vigilar cuándo se vuelve a abrir el paso, y eso ocurre a las 19:10. Nos ponemos en marcha con un margen suficiente para llegar antes de la caída del sol.
 
-A las 19:20 ya estamos de nuevo arriba, rodeados del baile de coches yendo y viniendo típico de esta hora. Se unen los excursionistas que abandonan Moraine tras un día de senderismo, con los visitantes tardíos -como nosotros- que vienen para terminar aquí el día. Para muchos de los que arrancan y se van esto supone el cierre a sus vacaciones, ya que el "Labour Day" de hoy, primer lunes de septiembre, supone el último de los tres días festivos del extenso fin de semana que han podido disfrutar los norteamericanos.
+A las 19:25 ya estamos de nuevo arriba, rodeados del baile de coches yendo y viniendo típico de esta hora. Se unen los excursionistas que abandonan Moraine tras un día de senderismo, con los visitantes tardíos -como nosotros- que vienen para terminar aquí el día. Para muchos de los que arrancan y se van esto supone el cierre a sus vacaciones, ya que el "Labour Day" de hoy, primer lunes de septiembre, supone el último de los tres días festivos del extenso fin de semana que han podido disfrutar los norteamericanos.
 
 En apenas 15 minutos estamos ya en posición. Tras rodear la morrena por detrás y ascender por el camino habilitado, buscamos un sitio libre con una buena vista hacia el lago y libre de árboles, rocas y, sobre todo, personas que se interpongan entre nosotros y la postal. Lo encontramos, y gracias a ello podemos disfrutar de uno de los momentos álgidos del viaje. Con el sol apenas iluminando ya una pequeña porción del agua, esta no tarda en convertirse en una superficie uniforme del mismo color azul eléctrico. El viento dibuja pequeñas corrientes cuando corre sobre la superficie, y en compañía de las vistas a la serie de picos que quedan en el extremo opuesto del lago, disfrutamos de una harmonía con la naturaleza solo interrumpida por los gritos de una madre cuya intención es que todos los presentes sepamos los nombres de sus dos revoltosas hijas. 30 minutos de reloj se pasa repitiéndolos una y otra vez a gritos como si éstas fueran a dejar de ignorarla por ello.
 
