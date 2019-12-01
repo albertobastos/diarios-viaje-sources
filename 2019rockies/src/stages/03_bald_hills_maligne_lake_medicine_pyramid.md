@@ -1,5 +1,5 @@
 ---
-title: Maligne Lake desde Bald Hills y atardecer en Pyramid Lake.
+title: Maligne Lake desde Bald Hills y atardecer en Pyramid Lake
 description: Excursión a las colinas de Bald Hills con vistas a Maligne Lake. Paradas en Medicine Lake y Pyramid Lake al atardecer antes de cenar otro poutine de Lou Lou's Pizzeria & Breakfast.
 index: 5
 map: R19D0300MAP
