@@ -1,8 +1,8 @@
 ---
-title: TODO
-description: TODO
+title: Sunshine Meadows y rumbo a Montana
+description: Visita de medio día a los lagos de Sunshine Meadows antes de abandonar Banff y dirigirse a Fort MacLeod, a una hora de la frontera entre Alberta y Montana.
 index: 10
-map: 
+map: R19D0800MAP
 date: "4 de septiembre de 2019"
 private: false
 ---
@@ -24,25 +24,14 @@ La primera e inevitable parada del itinerario que la mayoría realiza en Sunshin
 
 Nos viene persiguiendo un grupo de estadounidenses ruidoso, pero afortunadamente no pasan demasiado tiempo en un sitio concreto y no tardan en adelantarnos y perderse en la lejanía. Mientras tanto seguimos disfrutando de este mirador que ofrece ya de inicio la que probablemente es la mejor vista de toda la zona. Llegados hasta aquí y con la intención de exprimir al máximo el precio de la entrada, nos decidimos a ampliar el itinerario más habitual con desvíos que nos permitan pasar junto a la orilla de los otros dos lagos, y no limitándose al Rock Isle Lake. Los colores otoñales de la vegetación contrastan con ese blanco predominante que nos tocó vivir en nuestra anterior visita.
 
+El agradable paseo nos lleva junto al Grizzly y el Laryx lake, los cuales salen perdiendo en la comparación con el Rock Isle Lake ante el que comienza el circuito. Comemos frente a Laryx en un ambiente relajada, aprovechando un pequeño tramo en el que la vegetación se interrumpe y todos hacemos un alto en el camino para admirar las vistas despejadas hacia el lago. Comenzamos el camino de vuelta hasta Rock Isle Lake pensando si merece la pena utilizar el telesilla para el viaje de vuelta. Además de no ser del agrado de L, para volver a la estacion más alta deberíamos remontar algo de altura. En su lugar, decidimos que bajaremos hasta la terminal superior del telecabina a pie, en lo que supondrán cuatro kilómetros de un paisaje que solo hemos visto fugazmente durante la subida.
 
+Cerramos el círculo previo al descenso volviendo a Rock Isle Lake. Siendo mejor que sus dos lagos hermanos, la mejor panorámica hacia él ya la hemos dejado atrás en ese mirador superior con el que comenzamos la visita. Un par de fotos más e iniciamos el descenso hasta las cabinas. El paisaje pasa a ser mucho más relevante en la lejanía que en el primer plano, viendo como tras líneas de telesillas están en pruebas -alguna sube a unas cimas que ojalá pudiéramos alcanzar- y como unos carteles nos anuncian que estamos pasando de largo el desvío a Mount Assiniboine, una descomunal cima de 3.618 metros de la que nos separan 23 kilómetros de una ruta probablemente nada asequible. Son las 14:30 cuando estamos ya dentro de una cabina para regresar hasta la estación inferior, con una espina de tres años de duración quitada y la mañana consumida.
 
+Ya no volvemos a entrar en la ciudad de Banff a nuestro paso junto a ella rumbo al sureste, pero si nos detenemos unos instantes en el mirador de Vermillion Lakes junto a la autopista. Aquí el protagonismo se lo lleva el Mount Rundle, desde un ángulo que destaca todo lo posible su curiosa forma como si el viento estuviera intentando llevarse una pirámide de arena. Nos decimos adiós, subimos al coche, y dejamos atrás las Montañas Rocosas. Con montañas en el retrovisor y llanuras en el parabrisas, retomamos los podcast de Todo por la Radio para amenizarnos el camino. Alcanzamos Calgary, la mayor ciudad de Alberta y en la que nos hubiera encantado aterrizar para ahorrarnos días de carretera, pero cuyos vuelos desde Europa distan mucho de ser económicos comparados con los de Vancouver. No entramos a la ciudad, pero tenemos suficiente con soportar el tráfico y los conductores agresivos de las autopistas que la rodean. Nos marchamos a toda prisa hacia el sur, donde encontramos un local de la cadena Save on Foods en el que abastecernos para los cuatro días. Nuestro campamento base a partir de mañana no se encuentra excesivamente rodeado de servicios, así que no podemos arriesgarnos a posponer las compras para entonces. En el aparcamiento del supermercado el exterior nos recibe con unos 28 grados que chocan frontalmente con el forro polar con el que nos hemos despedido de Banff.
 
-Pasamls junto a Grizzly y comemos en Lynx. Ambiente relajado. Subir al telesilla es ascender para bajar, iremos directos a góndola. 4km con parada. Se nos ga ido la mañana.
+De nuevo en el coche y con 112 dólares canadienses menos, afrontamos los últimos 150 kilómetros hasta nuestra meta de hoy, un lugar lo suficientemente cercano a la frontera con Estados Unidos que nos permita llegar mañana a Glacier a una temprana hora sin tener que madrugar en exceso. Nos acompaña por el camino un paisaje totalmente llano, en el que solo ranchos, caballos y tractores interrumpen una línea del horizonte ininterrumpida. Pasamos junto al desvío a Nanton, un pueblo del que guardamos un magnífico recuerdo gracias a la casa en el que pasamos una noche de 2016 alojados por una entrañable y anciana pareja. Se siguen sucediendo los kilómetros y con ellos las vallas publicitarias, siendo la más llamativa una que nos recuerda que "Canada has no abortion laws" (Canadá no tiene leyes contra el aborto).
 
-Rock Lake mejor el alto que el oficial. Desde aquí casi todo descenso al village viendo otros telesillas probandose. División pacífico ártica. Desvío de 23km al Assinbone. 1430 bajando ek gondola, espina quitada
+Son las 19:30 cuando el GPS finaliza la cuenta atrás y encontramos nuestra casa para esta noche en Fort Macleod, a menos de 100 kilómetros de la frontera entre Canadá y su vecino al sur. Como no podía ser de otra manera en esta zona plagada de ranchos y enormes parcelas, dejamos el coche en un amplio exterior acompañados de una "RV" descomunal, una de esas casas sobre ruedas que en Europa captarían la atención de todos pero aquí quedan disimuladas como "una más". Nuestro alojamiento para hoy es un sótano totalmente sobredimensionado para nuestras necesidades, ya que tiene capacidad para acoger mucho más que dos personas gracias a sus tres dormitorios. Sobre el sótano descansa la casa de nuestros anfitriones, una pareja ya entrada en años que nos dan una de esas sesiones de conversación que tanto disfruto en nuestros viajes al otro lado del Atlántico. Nos cuentan historias de sus encuentros en el jardín de casa con osos, pumas y un alce americano del que nos enseñan fotos.
 
-Mirador vermillion cin rundle como estrella y adiós banff. Mibtañasen el retrovisor y llanuras en el parabrisas. Vuelve todo por la radio.
-
-Calgary es trafico y conductores agresivos. Nos valos pitando al sur hasta un save on foods. 28 grados y yo saoi de bqnff con polar.
-
-Nos abastecemls para 4 días, ya que east glacier es un bunker
-112 cad y conversación con Laurie.vivir aquí sería pesar 30kg mas.
-
-Recta de 150km. Caballos y tractores. Nanton
-Canada has no abortion laws.
-
-Llegamls a las 1930 a la casa de fort macleod, para variar una mega RV fuera. Sotano con salón, amplio baño y 3 habitaciones para nosotros. El cielo promete para la noche.
-
-Charla. Con ellos. Fotos de moose. Historias de osos y cougars. Cena comfort con cosas de congelador que no tenemos. Mientras, lavadora y secadoea. Preparamos todo lo posible para malana ponernos ek marcha enseguida. Canada termiba, toca la tierra de Donald.
-
-Es holandesa, eso explica los libros. 
+Aprovechamos nuestras horas en Fort Macleod y la oferta de nuestros anfitriones para poner una lavadora y secadora y guardar en un cajón libre del frigorífico algunas de nuestras compras. Tras una cena de "comfort food" calentada al microondas, dejamos nuestro equipaje todo lo preparado posible para que mañana por la mañana el único paso necesario sea devolverlo al maletero del coche. Cuando volvamos a arrancar, será para despedirnos de Canadá y reencontrarnos con los dominios de Trump. Montana espera, Glacier National Park aguarda.
