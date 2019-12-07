@@ -62,6 +62,8 @@ Localizamos la casa en la que pasaremos las próximas cuatro noches, pero gracia
 
 Tenemos una sala única que combina dormitorio y salón con el único añadido de un baño completo. Todo se encuentra en buen estado, pero los servicios brillan por su ausencia. Lo que más nos duele es la ausencia de un microondas, el cual iba a ser muy útil para sobrevivir durante cuatro días en la nada económica Banff. Pagamos en efectivo el mayor desembolso por alojamiento de todo el viaje, para más inri. Aunque pasar de una habitación privada a un apartamento con baño privado sea una mejoría, no podemos evitar echar algo de menos ese Odenthal's Bed & Breakfast en el que pasamos nuestros días en Banff hace tres años.
 
+[Alpine B&B en Banff](https://www.youtube.com/watch?v=cak6PqvzwPE)
+
 Tras averiguar por la previsión meteorológica que la lluvia debería cesar dentro de dos horas, dedicamos ese tiempo a descansar y asimilar nuestro nuevo hogar mientras deshacemos las maletas. Dan las 17:15 y la previsión se cumple, así que nos echamos a las calles cargados con la ropa sucia para alcanzar la [Cascade Coin Laundry](https://amxca0.wixsite.com/cascadecoinlaundry/hours), una lavandería autoservicio situada en la mismísima Banff Avenue, la arteria principal de la turística ciudad.
 
 Ponemos en marcha una lavadora a base de monedas de 25 centavos que cambiamos en el mostrador. Me apasiona la imagen del matrimonio asiático de avanzada edad encargado del lugar contando suficientes monedas como para llenar un cofre que podría encontrarse Indiana Jones. Por siete dólares, iniciamos una carga doble de 30 minutos y decidimos aprovechar ese lapso de tiempo para dar una vuelta por los alrededores.
