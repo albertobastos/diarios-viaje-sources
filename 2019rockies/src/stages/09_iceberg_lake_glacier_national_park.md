@@ -1,0 +1,63 @@
+---
+title: Iceberg Lake en Glacier National Park
+description: Entrada a Montana desde Canadá y primer acceso a Glacier National Park, en el que visitar Iceberg Lake antes de alcanzar nuestro alojamiento de Glacier Trailhead Cabins en Babb.
+index: 11
+map: R19D0900MAP
+date: "5 de septiembre de 2019"
+private: false
+---
+A las 6:30 vibran nuestras pulseras, perfecto sustituto para no comenzar el día con un estruendo que tener que apagar a toda prisa. En el silencio del sótano que hemos ocupado esta noche en una amplia casa de [Fort Macleod](https://en.wikipedia.org/wiki/Fort_Macleod "Fort MacLeod, Alberta"), desayunamos mientras nos ponemos al día con las redes sociales para acto seguido llevar nuestras maletas haciendo el menor ruido posible hasta el coche que aguarda en el exterior. A las 7:30, sin aparentemente haber interrumpido el sueño de nuestros anfitriones y habiendo ya amanecido, nos ponemos en marcha con los pasaportes a mano en la guantera del vehículo.
+
+Nada más poner en marcha el motor y para poder enfilar la autopista rumbo al sur, tenemos que atravesarla directamente. Se nos sigue haciendo muy extraña la mecánica de esta autopista que los coches pueden abandonar también por la izquierda, obligados así a realizar un ceda al paso en una vía en la que los vehículos pueden superar los 100 kilómetros por hora.
+
+Nuestros últimos kilómetros en Canadá van acompañados de más llanuras solo interrumpidas por granjas y accesos a lo que parecen pequeños estadios de rodeo. Con tantas visitas como hemos hecho a Norteamérica, ese espectáculos de vaqueros todavía no se ha tachado de la lista. A 30 kilómetros de la frontera atravesamos la calle principal de [Cardston](https://en.wikipedia.org/wiki/Cardston "Cardston, Alberta"), una localidad que a nuestro juicio parece ruinosa y abandonada pero que según la Wikipedia acoge a más de 3.000 canadienses con los Estados Unidos a apenas unos minutos de distancia. En el cielo nos acompaña un manto de nubes que contradice la última previsión meteorológica para el norte de Montana. Recortamos la distancia con la frontera mientras, en un podcast de La Vida Moderna, David Broncano narra su encuentro con un uso durante sus vacaciones en Alaska. ¿Será un momento premonitorio?
+
+[Nubes por el camino (I)](R19D0901)
+[Nubes por el camino (II)](R19D0902)
+
+Llegamos a la frontera con los Estados Unidos, que a diferencia de nuestro paso entre países de hace tres años se encuentra en llano y no en un puerto de montaña nevado. Todavía sin salir del vehículo, el agente de inmigración de la garita nos hace las clásicas preguntas de control además de confirmar que tenemos una [ESTA](https://esta.cbp.dhs.gov/ "ESTA, formulario de inmigración de los Estados Unidos") -el formulario de inmigración para acceder a los Estados Unidos- vigente. Nos insta a aparcar y pasar al interior, donde otro agente toma nuestras huellas y fotografía y, tras comprobar que todo está el orden, da el visto bueno a nuestro visado a cambio de seis dólares por cabeza. En los muebles de la amplia oficina reside un Funko de grandes dimensiones de un Wampa, la bestia que capturaba a Luke Skywalker al inicio de El Imperio Contraataca. A las 8:50 salimos de la oficina y volvemos a nuestro coche listos para iniciar nuestros días en territorio estadounidense, y con un cielo que sigue protagonizado por unas nubes bajas que no casan con nuestros planes. Cambiamos la configuración tanto del GPS como del coche del sistema métrico al imperial y nos ponemos en marcha.
+
+Tras alejarnos unos pocos kilómetros de la frontera activamos los datos de nuestros teléfonos móviles y, por fin, podemos comenzar a consumir los 8 GB de nuestra tarjeta prepago de Vodafone. Los hubiéramos agradecido mucho más en días anteriores, pero al contrario de lo que parecía interpretarse por sus condiciones, Canadá no figuraba entre los países compatibles con la promoción de la Tarifa Mi País. Según nos acercamos a los límites de Glacier National Park el sol deshace por arte de magia las nubes y respiramos tranquilos. A las 9:15 y tras un puñado de baches en la primera carretera del parque por la que transitamos, alcanzamos la garita de la entrada por Many Glacier. A diferencia de ocasiones anteriores esta vez no traemos un Pase Anual del National Park Service, así que adquirimos el acceso de 7 días al parque por 35 dólares.
+
+A las 9:30 estamos ya aparcados frente al Swiftcurrent Motor Inn, un hotel en el interior del parque acompañado tras de sí por un camping para los que quieren rascarse menos el bolsillo. Nosotros queremos ajustar todavía más el presupuesto, así que durante las próximas noches nos alojaremos en unas cabañas fuera del parque que nos obligarán a entrar y salir de él a diario. No tenemos problemas para alcanzar el parking frente al hotel, si bien vemos como los coches forman colas de varios centros de metros para poder acceder al campamento.
+
+Ahora sí, empiezan nuestros tres días de visita al [Parque Nacional de los Glaciares](https://es.wikipedia.org/wiki/Parque_nacional_de_los_Glaciares). Se trata de uno de los más populares y, en nuestra opinión, más espectaculares National Park de los Estados Unidos, gracias a su ubicación al norte de Montana -y del país- que le otorga la oportunidad de acumular lagos, glaciares y sistemas montañosos para disfrute de sus visitantes. Nosotros ya tuvimos la suerte de visitarlo tres años atrás en nuestra primera combinación de Estados Unidos y Canadá, y teníamos claro que en cuanto se presentara la ocasión volveríamos a él. El tiempo en esta parte y esta época del año siempre es una incógnita, así que suele ser necesario más de un viaje para tachar de la lista todos los atractivos del parque que uno desea visitar. En 2016, la auténtica estrella fue la excursión de [Grinnell Glacier](/viajes/2016canada/19_grinnell_glacier_trail_josephine_lake.html "Excursión a Grinell Glacier en 2016"), una larga caminata hasta una lengua glaciar de las que hay que ver con tus propios ojos para creerse. Para esta ocasión hemos querido darle prioridad a la otra gran excursión del mismo estilo que Glacier ofrece: la de [Iceberg Lake](https://es.wikiloc.com/rutas-senderismo/iceberg-lake-glacier-national-park-14277885 "Excursión a Iceberg Lake"). Y por eso estamos frente al Swiftcurrent Motor Inn, ya que es desde aquí donde se inicia el camino que nos llevará hasta allí.
+
+La excursión comienza con una subida constante pero muy suave, solo exigente durante los primeros cientos de metros. La altura conquistada enseguida nos recompensa con vistas al valle, que disfrutamos mientras mantenemos una conversación con la menor cantidad posibles de silencios y así compensar la torpeza de no llevar con nosotros un cascabel para ahuyentar compañeros de excursión no deseados. Tras casi dos horas casi sin detenerse alcanzamos el perfecto punto para descansar durante unos instantes, en un pequeño alto en el camino donde un río cruza en una zona de sombra y permite refugiarse del sol y refrescarse ante un sol que, incluso en esta época del año, empieza a apretar. Coincidimos aquí durante nuestro descanso con 4 de los escasos 12 senderistas con los que hemos compartido excursión hasta ahora. Cuando retomamos la marcha no tardamos en cruzarnos con otro excursionista que va equipado con una pistola perfectamente visible en su cinturón. Ciertamente debe ser más efectiva que el spray en caso de toparse con un oso.
+
+[Enseguida, el espectáculo](R19D0903)
+[Estas "berries" gustan a unos animales grandes de la zona](R19D0904)
+[Un alto en el camino](R19D0905)
+
+Nos queda por delante algo más de una hora alternando tramos de sombra con balcones hacia el valle. En la distancia ya se pueden distinguir los bloques de hielo que descansan sobre el amfiteatro que marca nuestra meta. Una nube parece agarrarse justo sobre él, provocando unos contrastes entre luces y sombras que siempre suponen un revés para la fotografía. Encaramos el último esfuerzo en forma de pendiente moderada y no empezamos a intuir el agua del lago hasta que quedan menos de 200 metros para alcanzarlo. Y llegamos. El agua cubre más superficie y la pared frente a nosotros es más alta que la de Grinnell, consiguiendo así un efecto más envolvente que su competidora por atraer visitantes. Sin embargo la ubicación de Grinnell, algo más escondida, hace que aquel siga siendo para L su lugar favorito de Glacier National Park sin desmerecer aeste Iceberg Lake.
+
+[Ya se ve, a lo lejos...](R19D0906)
+[El valle que vamos dejando atrás](R19D0907)
+[Y aquí está, Iceberg Lake](R19D0908)
+[Las rocas descansan bajo el lago](R19D0909)
+
+El sol aparece y desaparece, pintando sombras sobre el amfiteatro. Una señora con fuerte acento americano narra a otra pareja de senderistas de avanzada edad su encuentro de hace un año con un oso grizzly. Tras un largo rato que incluye comer frente al lago y pasear por la orilla para disfrutar de varios ángulos, iniciamos el camino de regreso a las 13:30 parándose durante los primeros minutos para echar un último vistazo a Iceberg Lake con algo más de perspectiva. A las 14:50 pasamos de nuevo junto a la zona de descanso del río, y desde aquí y casi sin detenernos, otra hora y media nos separa de un coche al que regresamos para quitarnos a toda prisa nuestras botas y descansar los pies a las 16:20. Los 17 kilómetros entre ida y vuelta y la cantidad de sol que ha bañado nuestras cabezas -nuestras gorras, en realidad- han sido un buen estreno para Glacier.
+
+[Jugando con la flora](R19D0910)
+[Un vistazo más...](R19D0911)
+[... y otro más...](R19D0912)
+[Venga, este es el último](R19D0914)
+[No todo son osos](R19D0913)
+[El valle, siempre espectacular](R19D0915)
+[El camino que nunca acaba...](R19D0916)
+[Broncano lo sabe](R19D0917)
+
+Paramos durante unos minutos en la tienda de regalos junto al hotel, en la que compro, relleno y envío una postal para mis padres y utilizamos brevemente una conexión a Internet muy deficiente. Regresamos al coche y nos ponemos en marcha para salir del parque a la caza de nuestro alojamiento.
+
+Pernoctar en Glacier National Park o sus alrededores no es nada barato y ya asumíamos durante la planificación que las siguientes nochas iban a ser probablemente las más caras del viaje. Quizás por ese motivo tampoco quisimos dedicar muchos esfuerzos a buscar y rebuscar y decidimos recaer en el mismo lugar que nos acogió tres años atrás: el complejo de [Glacier Trailhead Cabins](http://glaciertrailheadcabins.com/) en Babb, una localidad literalmente a las puertas del parque en su acceso por Saint Mary. Llegamos y lo primero que hacemos es comprobar la intensidad de la señal en nuestros móviles, ya que ante el recuerdo de que las cabañas no disponían de conexión a Internet poder acceder a través de Vodafone parece la única alternativa en días de mal tiempo como el que parece aguardarnos en la jornada de mañana. Con horror observamos que las redes compatibles con Vodafone, ni están ni se le esperan. Temiendo que durante los próximos días solo podremos conectarnos desde los centros de visitantes, accedemos al edificio de recepción para confirmar nuestra llegada y obtener la llave de nuestra cabaña. Y entonces la dueña del complejo nos informa de que han instalado wifi y su voz se convierte en música celestial.
+
+Conducimos unos pocos metros hasta alcanzar la cabaña 7 que habíamos reservado específicamente. Nos espera en el interior un espacio reducido pero suficiente para nosotros dos, con una cama de buenas dimensiones, un pequeño escritorio, un microondas sobre un pequeño frigorífico y un baño completo. Tras dejar nuestras cosas pasamos por la amplia construcción común en la que tenemos disponible una cocina y un amplio comedor. Está recién reformada y ha ganado muchísimo respecto a nuestro recuerdo de 2016, siendo el único punto negativo la abrumadora cantidad de moscas que revolotean y tenemos que ir masacrando gracias a un matamoscas.
+
+[Nuestra cabaña número 7](R19D0920)
+[La reformada cabaña común](R19D0918)
+[Toda la cocina para nosotros](R19D0919)
+[Cabaña número 7 de Glacier Trailhead Cabins](https://www.youtube.com/watch?v=9LDbn35XZ3k)
+
+Agradecemos una tarde tranquila como la que nos queda por delante. Cuando volvemos a nuestra cabaña, dejo la cámara programada para disparar material suficiente para un timelapse del atardecer, si bien el resultado es más mediocre de lo que hubiera deseado. Descansamos los pies, nos duchamos y cenamos varias cosas precocinadas que han sobrevivido a todo un día en una nevera portátil. Termina así la primera de nuestras tres noches junto a ese regalo de la naturaleza que es el Parque Nacional de los Glaciares.
+
+[Bonito, pero menos de lo esperado](R19D0921)
