@@ -12,8 +12,8 @@ Nada más poner en marcha el motor y para poder enfilar la autopista rumbo al su
 
 Nuestros últimos kilómetros en Canadá van acompañados de más llanuras solo interrumpidas por granjas y accesos a lo que parecen pequeños estadios de rodeo. Con tantas visitas como hemos hecho a Norteamérica, ese espectáculos de vaqueros todavía no se ha tachado de la lista. A 30 kilómetros de la frontera atravesamos la calle principal de [Cardston](https://en.wikipedia.org/wiki/Cardston "Cardston, Alberta"), una localidad que a nuestro juicio parece ruinosa y abandonada pero que según la Wikipedia acoge a más de 3.000 canadienses con los Estados Unidos a apenas unos minutos de distancia. En el cielo nos acompaña un manto de nubes que contradice la última previsión meteorológica para el norte de Montana. Recortamos la distancia con la frontera mientras, en un podcast de La Vida Moderna, David Broncano narra su encuentro con un uso durante sus vacaciones en Alaska. ¿Será un momento premonitorio?
 
-[Nubes por el camino (I)](R19D0901)
-[Nubes por el camino (II)](R19D0902)
+![Nubes por el camino (I)](R19D0901)
+![Nubes por el camino (II)](R19D0902)
 
 Llegamos a la frontera con los Estados Unidos, que a diferencia de nuestro paso entre países de hace tres años se encuentra en llano y no en un puerto de montaña nevado. Todavía sin salir del vehículo, el agente de inmigración de la garita nos hace las clásicas preguntas de control además de confirmar que tenemos una [ESTA](https://esta.cbp.dhs.gov/ "ESTA, formulario de inmigración de los Estados Unidos") -el formulario de inmigración para acceder a los Estados Unidos- vigente. Nos insta a aparcar y pasar al interior, donde otro agente toma nuestras huellas y fotografía y, tras comprobar que todo está el orden, da el visto bueno a nuestro visado a cambio de seis dólares por cabeza. En los muebles de la amplia oficina reside un Funko de grandes dimensiones de un Wampa, la bestia que capturaba a Luke Skywalker al inicio de El Imperio Contraataca. A las 8:50 salimos de la oficina y volvemos a nuestro coche listos para iniciar nuestros días en territorio estadounidense, y con un cielo que sigue protagonizado por unas nubes bajas que no casan con nuestros planes. Cambiamos la configuración tanto del GPS como del coche del sistema métrico al imperial y nos ponemos en marcha.
 
@@ -25,27 +25,27 @@ Ahora sí, empiezan nuestros tres días de visita al [Parque Nacional de los Gla
 
 La excursión comienza con una subida constante pero muy suave, solo exigente durante los primeros cientos de metros. La altura conquistada enseguida nos recompensa con vistas al valle, que disfrutamos mientras mantenemos una conversación con la menor cantidad posibles de silencios y así compensar la torpeza de no llevar con nosotros un cascabel para ahuyentar compañeros de excursión no deseados. Tras casi dos horas casi sin detenerse alcanzamos el perfecto punto para descansar durante unos instantes, en un pequeño alto en el camino donde un río cruza en una zona de sombra y permite refugiarse del sol y refrescarse ante un sol que, incluso en esta época del año, empieza a apretar. Coincidimos aquí durante nuestro descanso con 4 de los escasos 12 senderistas con los que hemos compartido excursión hasta ahora. Cuando retomamos la marcha no tardamos en cruzarnos con otro excursionista que va equipado con una pistola perfectamente visible en su cinturón. Ciertamente debe ser más efectiva que el spray en caso de toparse con un oso.
 
-[Enseguida, el espectáculo](R19D0903)
-[Estas "berries" gustan a unos animales grandes de la zona](R19D0904)
-[Un alto en el camino](R19D0905)
+![Enseguida, el espectáculo](R19D0903)
+![Estas "berries" gustan a unos animales grandes de la zona](R19D0904)
+![Un alto en el camino](R19D0905)
 
 Nos queda por delante algo más de una hora alternando tramos de sombra con balcones hacia el valle. En la distancia ya se pueden distinguir los bloques de hielo que descansan sobre el amfiteatro que marca nuestra meta. Una nube parece agarrarse justo sobre él, provocando unos contrastes entre luces y sombras que siempre suponen un revés para la fotografía. Encaramos el último esfuerzo en forma de pendiente moderada y no empezamos a intuir el agua del lago hasta que quedan menos de 200 metros para alcanzarlo. Y llegamos. El agua cubre más superficie y la pared frente a nosotros es más alta que la de Grinnell, consiguiendo así un efecto más envolvente que su competidora por atraer visitantes. Sin embargo la ubicación de Grinnell, algo más escondida, hace que aquel siga siendo para L su lugar favorito de Glacier National Park sin desmerecer aeste Iceberg Lake.
 
-[Ya se ve, a lo lejos...](R19D0906)
-[El valle que vamos dejando atrás](R19D0907)
-[Y aquí está, Iceberg Lake](R19D0908)
-[Las rocas descansan bajo el lago](R19D0909)
+![Ya se ve, a lo lejos...](R19D0906)
+![El valle que vamos dejando atrás](R19D0907)
+![Y aquí está, Iceberg Lake](R19D0908)
+![Las rocas descansan bajo el lago](R19D0909)
 
 El sol aparece y desaparece, pintando sombras sobre el amfiteatro. Una señora con fuerte acento americano narra a otra pareja de senderistas de avanzada edad su encuentro de hace un año con un oso grizzly. Tras un largo rato que incluye comer frente al lago y pasear por la orilla para disfrutar de varios ángulos, iniciamos el camino de regreso a las 13:30 parándose durante los primeros minutos para echar un último vistazo a Iceberg Lake con algo más de perspectiva. A las 14:50 pasamos de nuevo junto a la zona de descanso del río, y desde aquí y casi sin detenernos, otra hora y media nos separa de un coche al que regresamos para quitarnos a toda prisa nuestras botas y descansar los pies a las 16:20. Los 17 kilómetros entre ida y vuelta y la cantidad de sol que ha bañado nuestras cabezas -nuestras gorras, en realidad- han sido un buen estreno para Glacier.
 
-[Jugando con la flora](R19D0910)
-[Un vistazo más...](R19D0911)
-[... y otro más...](R19D0912)
-[Venga, este es el último](R19D0914)
-[No todo son osos](R19D0913)
-[El valle, siempre espectacular](R19D0915)
-[El camino que nunca acaba...](R19D0916)
-[Broncano lo sabe](R19D0917)
+![Jugando con la flora](R19D0910)
+![Un vistazo más...](R19D0911)
+![... y otro más...](R19D0912)
+![Venga, este es el último](R19D0914)
+![No todo son osos](R19D0913)
+![El valle, siempre espectacular](R19D0915)
+![El camino que nunca acaba...](R19D0916)
+![Broncano lo sabe](R19D0917)
 
 Paramos durante unos minutos en la tienda de regalos junto al hotel, en la que compro, relleno y envío una postal para mis padres y utilizamos brevemente una conexión a Internet muy deficiente. Regresamos al coche y nos ponemos en marcha para salir del parque a la caza de nuestro alojamiento.
 
@@ -53,11 +53,12 @@ Pernoctar en Glacier National Park o sus alrededores no es nada barato y ya asum
 
 Conducimos unos pocos metros hasta alcanzar la cabaña 7 que habíamos reservado específicamente. Nos espera en el interior un espacio reducido pero suficiente para nosotros dos, con una cama de buenas dimensiones, un pequeño escritorio, un microondas sobre un pequeño frigorífico y un baño completo. Tras dejar nuestras cosas pasamos por la amplia construcción común en la que tenemos disponible una cocina y un amplio comedor. Está recién reformada y ha ganado muchísimo respecto a nuestro recuerdo de 2016, siendo el único punto negativo la abrumadora cantidad de moscas que revolotean y tenemos que ir masacrando gracias a un matamoscas.
 
-[Nuestra cabaña número 7](R19D0920)
-[La reformada cabaña común](R19D0918)
-[Toda la cocina para nosotros](R19D0919)
+![Nuestra cabaña número 7](R19D0920)
+![La reformada cabaña común](R19D0918)
+![Toda la cocina para nosotros](R19D0919)
+
 [Cabaña número 7 de Glacier Trailhead Cabins](https://www.youtube.com/watch?v=9LDbn35XZ3k)
 
 Agradecemos una tarde tranquila como la que nos queda por delante. Cuando volvemos a nuestra cabaña, dejo la cámara programada para disparar material suficiente para un timelapse del atardecer, si bien el resultado es más mediocre de lo que hubiera deseado. Descansamos los pies, nos duchamos y cenamos varias cosas precocinadas que han sobrevivido a todo un día en una nevera portátil. Termina así la primera de nuestras tres noches junto a ese regalo de la naturaleza que es el Parque Nacional de los Glaciares.
 
-[Bonito, pero menos de lo esperado](R19D0921)
+![Bonito, pero menos de lo esperado](R19D0921)
