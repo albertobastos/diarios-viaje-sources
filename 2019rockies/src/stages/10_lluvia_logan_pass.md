@@ -2,7 +2,7 @@
 title: Lluvia en Saint Mary y en Logan Pass
 description: Día de lluvia en todo Glacier National Park, con una sola salida por la Going-to-the-sun Road que conecta Saint Mary y Logan Pass.
 index: 12
-map: 
+map: R19D1000MAP
 date: "6 de septiembre de 2019"
 private: false
 ---
