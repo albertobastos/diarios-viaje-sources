@@ -23,7 +23,7 @@ Nos dirigimos ya hacia el aeropuerto, aunque todavía sin intención de volar. E
 
 ![Comida entre vuelos](R19D1403)
 
-Entramos en varias tiendas, pero solo L saca la tarjeta de crédito para alguna compra menos en Tommy Hilfiger. Hay más variedad que en el Seattle Premium Outlet, pero también menos ofertas. Entre tienda y tienda, algunos aviones que sobrevuelan el centro provocan un ruido ensordecedor.
+Entramos en varias tiendas, pero solo L saca la tarjeta de crédito para alguna compra menor en Tommy Hilfiger. Hay más variedad que en el Seattle Premium Outlet, pero también menos ofertas. Entre tienda y tienda, algunos aviones que sobrevuelan el centro provocan un ruido ensordecedor.
 
 ![Un último outlet](R19D1404)
 ![Cargados por última vez](R19D1405)
