@@ -7,7 +7,7 @@
         "price_eur": 102.88
       },
       {
-        "description": "Vuelo de la compañía <strong>Air France</strong> para dos personas incluyendo equipaje de <strong>Madrid</strong> a <strong>Vancouver</strong> con escala en Amsterdam.",
+        "description": "Vuelos de la compañía <strong>KLM</strong> para dos personas incluyendo equipaje de <strong>Madrid</strong> a <strong>Vancouver</strong> con escala en Amsterdam. Reservados a través de la compañía <strong>Air France</strong>.",
         "price_eur": 817.10
       },
       {
@@ -22,7 +22,7 @@
       },
       {
         "description": "Dos repostajes de <strong>gasolina</strong> en estación de servicio <strong>Conoco</strong> y <strong>Chevron</strong>.",
-        "price_cad": 54,
+        "price_usd": 54,
         "price_eur": 49.01
       }
     ]
