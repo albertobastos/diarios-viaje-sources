@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Transporte",
+    "entries": [
+      {
+        "description": "Ida y vuelta entre Mallorca y Barcelona con salida desde Alcúdia y regreso a Palma a bordo de un buque de Baleària. Pasaje para un vehículo en garaje y un adulto, la ida en Butaca Sirena y la vuelta en Camarote Doble. Incluye descuento del 75% para residentes baleares.",
+        "price_eur": 213.75
+      },
+      {
+        "description": "Ida y vuelta en avión entre Mallorca y Barcelona para un adulto con Ryanair, sin equipaje facturado ni selección de asiento. Incluye descuento del 75% para residentes baleares.",
+        "price_eur": 25.97
+      },
+      {
+        "description": "Repostaje en una estación de servicio de la cadena bonÀrea en Òdena.",
+        "price_eur": 46
+      },
+      {
+        "description": "Repostaje en una estación de servicio de la cadena bonÀrea a la salida de Zaragoza.",
+        "price_eur": 14
+      },
+      {
+        "description": "Repostaje en la estación de servicio Liebana S.L. en Odejo.",
+        "price_eur": 27.5
+      },
+      {
+        "description": "Repostaje en estación de servicio Carrefour de Mieres.",
+        "price_eur": 21
+      },
+      {
+        "description": "Repostaje en estación de servicio BallenOil de Gijón-Sur",
+        "price_eur": 20
+      },
+      {
+        "description": "Repostaje en estación de servicio Carrefour de Huesca.",
+        "price_eur": 15
+      },
+      {
+        "description": "Peaje de la autopista AP-68 para el tramo comprendido entre Bilbao y Vitoria-Gasteiz.",
+        "price_eur": 5.40
+      },
+      {
+        "description": "Dos billetes sencillos para el tranvía de Vitoria-Gasteiz.",
+        "price_eur": 2.90
+      },
+      {
+        "description": "Ida y vuelta para dos personas en el Teleférico de Fuente Dé.",
+        "price_eur": 34
+      }
+    ]
+  },
+  {
+    "title": "Alojamientos",
+    "entries": [
+      {
+        "description": "Apartamentos Rurales Fuente de Somave en Cahecho, Cantabria. Estancia de dos noches reservada a través de Booking.com.",
+        "price_eur": 110
+      },
+      {
+        "description": "Casa Rural El Pinar en Acebedo, León. Estancia de una noche en habitación con baño privado reservada a través de Booking.com.",
+        "price_eur": 45
+      },
+      {
+        "description": "Apartamentos Los Cascayos en Abantro, Asturias. Estancia de dos noches reservada a través de Booking.com.",
+        "price_eur": 120
+      },
+      {
+        "description": "Apartamentos Lagos de Saliencia en Saliencia, Asturias. Estancia de dos noches reservada a través de Booking.com.",
+        "price_eur": 140
+      },
+      {
+        "description": "Apartamentos Fuente el Güeyu en Cabielles, Asturias. Estancia de tres noches reservada a través su web oficial.",
+        "price_eur": 300
+      }
+    ]
+  },
+  {
+    "title": "Supermercados",
+    "entries": [
+      {
+        "description": "Supermercado Día en Potes.",
+        "price_eur": 7.47
+      },
+      {
+        "description": "Supermercado Lupa en Potes.",
+        "price_eur": 12.63
+      },
+      {
+        "description": "Supermercado Alimerka en Pola de Laviana.",
+        "price_eur": 32
+      },
+      {
+        "description": "Supermercado Mercadona en Oviedo.",
+        "price_eur": 19
+      },
+      {
+        "description": "Supermercado Mercadona en Arriondas.",
+        "price_eur": 25.73
+      },
+      {
+        "description": "Hipermercado Carrefour en Mieres.",
+        "price_eur": 49.66
+      }
+    ]
+  },
+  {
+    "title": "Restaurantes",
+    "entries": [
+      {
+        "description": "Cena en el restaurante de la Hostería Peña Sagra en Cahecho, Cantabria.",
+        "price_eur": 37
+      },
+      {
+        "description": "Cena en el restaurante Punto y Coma de Riaño, León.",
+        "price_eur": 30.30
+      },
+      {
+        "description": "Comida en el local de la cadena Tierra Astur en Colloto, Asturias.",
+        "price_eur": 50
+      },
+      {
+        "description": "Cena en el restaurante San Martín Gastrobar de Mestas de Con, Asturias (1 de 2).",
+        "price_eur": 43
+      },
+      {
+        "description": "Café y bollería para dos en cafetería de Gijón.",
+        "price_eur": 3.85
+      },
+      {
+        "description": "Cena en el restaurante San Martín Gastrobar de Mestas de Con, Asturias (2 de 2).",
+        "price_eur": 41.70
+      },
+      {
+        "description": "Cena para tres en la pizzería Pizzicato de Vitoria-Gasteiz.",
+        "price_eur": 33
+      },
+      {
+        "description": "Comida en McDonalds de Huesca.",
+        "price_eur": 9.90
+      }
+    ]
+  }
+]
