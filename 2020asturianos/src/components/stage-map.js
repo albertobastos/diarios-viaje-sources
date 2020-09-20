@@ -8,23 +8,20 @@ export default (props) => (
         site {
           siteMetadata {
             photoCdn
+            photoThumbFolder
           }
         }
       } 
     `
     }
     render={data => {
-      const { map } = props;
-      if (!map) {
+      const { map: mapUrl } = props;
+      if (!mapUrl) {
         return null;
       }
 
-      const { photoCdn } = data.site.siteMetadata;
-      const largeUrl = `${photoCdn}/large/${map}.jpg`;
-      const thumbUrl = `${photoCdn}/thumb/${map}.jpg`;
-
       return (
-        <a className="custom-stage-map" href={largeUrl}><img src={thumbUrl} alt="Mapa de la etapa" /></a>
+        <a className="custom-stage-map" href={mapUrl}>Ver en Mapa</a>
       )
     }}
   />

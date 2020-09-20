@@ -37,7 +37,7 @@ export const query = graphql`
       }
     }
     allMarkdownRemark(
-      sort: { order: ASC, fields: [frontmatter___index]}
+      sort: { order: ASC, fields: [frontmatter___title]}
       filter: { frontmatter: {private: {ne:true}}}
     ) {
       edges {
@@ -45,7 +45,6 @@ export const query = graphql`
           id
           frontmatter {
             title
-            index
           }
           fields {
             slug

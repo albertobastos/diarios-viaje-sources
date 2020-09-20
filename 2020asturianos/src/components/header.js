@@ -26,7 +26,6 @@ export default ({ children }) => (
             id
             frontmatter {
               title
-              index
             }
             fields {
               slug

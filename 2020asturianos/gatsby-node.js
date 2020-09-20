@@ -23,7 +23,7 @@ exports.createPages = ({ graphql, actions }) => {
   return graphql(`
       {
         allMarkdownRemark(
-          sort: { order: ASC, fields: [frontmatter___index]}
+          sort: { order: ASC, fields: [frontmatter___title]}
           filter: { frontmatter: {private: {ne:true}}}
         ) {
           edges {
@@ -33,9 +33,7 @@ exports.createPages = ({ graphql, actions }) => {
               }
               frontmatter {
                 title,
-                description,
-                index,
-                date
+                prefix
               }
               html
             }

@@ -29,6 +29,7 @@ export default (props) => (
       const { title: stageTitle, date: stageDate, description: stageSEODescription } = stage.frontmatter;
       const stageFinalHtml = processStageHtml(
         data.site.siteMetadata,
+        stage.frontmatter.prefix,
         stage.html
       );
 
@@ -64,16 +65,17 @@ export default (props) => (
 /**
  * Aplica transformaciones al HTML de una etapa generado a partir del Markdown.
  */
-function processStageHtml({ photoCdn, photoFullFolder, photoThumbFolder }, html) {
+function processStageHtml({ photoCdn, photoFullFolder, photoThumbFolder }, prefix, html) {
   // Imágenes:
   // - Añadimos el prefijo de la miniatura en el CDN y la extensión .jpg
   // - Las envolvemos en un enlace a la versión grande del CDN
   // - Añadimos los meta-atributos necesarios para el lightbox
   //    <img src="xxx" alt="yyy"> --> <a class="stage-gallery" href="${photoCdn}/large/xxx.jpg"><img src="${photoCdn}/thumb/xxx.jpg" alt="yyy"></a>
   // - Añadimos una clase a los <p> contenedores de fotos necesarios para estilar.
+  prefix = prefix || '';
   html = html.replace(
     /<img src="(\w*)"(.*)>/g,
-    `<a class="stage-gallery" href="${photoCdn}/${photoFullFolder}/$1.jpg"><img src="${withPrefix('img/lazyimg.gif')}" data-echo="${photoCdn}/${photoThumbFolder}/$1.jpg"$2></a>`
+    `<a class="stage-gallery" href="${photoCdn}/${photoFullFolder}/${prefix}$1.jpg"><img src="${withPrefix('img/lazyimg.gif')}" data-echo="${photoCdn}/${photoThumbFolder}/${prefix}$1.jpg"$2></a>`
   );
   html = html.replace(
     /<p><a class="stage-gallery" /g,

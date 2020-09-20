@@ -3,8 +3,6 @@ import Layout from "../components/layout"
 import { graphql, Link } from "gatsby"
 
 import img_start from '../img/start.jpg'
-import img_extras from '../img/extras.jpg'
-import img_budget from '../img/budget.jpg'
 
 export default ({ data }) => (
   <Layout>
@@ -55,7 +53,8 @@ export const query = graphql`
       edges {
         node {
           frontmatter {
-            title
+            title,
+            prefix
           }
           fields {
             slug
