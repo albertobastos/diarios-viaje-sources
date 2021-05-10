@@ -30,7 +30,6 @@ exports.onRouteUpdate = ({ location, prevLocation }) => {
 
     // lightbox (stage map & photos)
     if(window.SimpleLightbox) {
-        const map = document.querySelector('.custom-stage-map');
         const photos = document.querySelectorAll('.custom-stage-media a');
 
         window.SimpleLightbox.defaults = {
@@ -43,11 +42,10 @@ exports.onRouteUpdate = ({ location, prevLocation }) => {
 
         // copy image alt/title o wrapper link title
         // (SimpleLightbox only supports captions based on link attributes)
-        [map, ...photos].forEach(a => {
+        [...photos].forEach(a => {
             try { a.title = a.children[0].alt; } catch(err) {}
         });
 
-        new window.SimpleLightbox({elements: map}); // map
         new window.SimpleLightbox({elements: photos}); // stage photos
     }
 

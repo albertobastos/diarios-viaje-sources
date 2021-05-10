@@ -2,8 +2,6 @@ import React from "react"
 import Layout from "../components/layout"
 import { graphql, Link } from "gatsby"
 
-import img_start from '../img/start.jpg'
-
 export default ({ data }) => (
   <Layout>
     <div className="w3-display-container w3-container w3-center custom-banner-head">
@@ -13,7 +11,7 @@ export default ({ data }) => (
 
     <div className="w3-container w3-content w3-center w3-padding-32 custom-max-width-800">
       <p className="w3-justify">Bienvenido a nuestra colección de fotografías en recuerdo de una estancia de cuatro semanas en el <strong>Principado de Asturias</strong>.</p>
-      <p className="w3-justify">A diferencia de anteriores diarios de viaje, esta vez el relato cronológico da lugar a una serie de álbumes fotográficos de cada uno de los enclaves que visitamos durante una estancia en la que jugamos a ser asturianos durante un tiempo.</p>
+      <p className="w3-justify">En esta ocasión dejamos de lado el relato cronológico para dar paso a una serie de álbumes fotográficos con cada uno de los enclaves que visitamos durante el tiempo en el que jugamos a ser asturianos.</p>
     </div>
 
     <div className="w3-light-grey">
@@ -21,7 +19,7 @@ export default ({ data }) => (
         <div className="w3-row-padding w3-padding-32 custom-offset-sides">
           {(data.allMarkdownRemark.edges.map(({ node }) => (
             <div className="w3-third w3-margin-bottom">
-            <Link to={node.fields.slug}><img src={img_start} alt={node.frontmatter.title}
+            <Link to={node.fields.slug}><img src={data.site.siteMetadata.photoCdn + '/' + data.site.siteMetadata.photoThumbFolder + '/' + node.frontmatter.prefix + node.frontmatter.cover + '.jpg'} alt={node.frontmatter.title}
               className="w3-hover-opacity custom-full-width" /></Link>
             <div className="w3-container w3-white w3-center">
               <p>{node.frontmatter.title}</p>
@@ -40,6 +38,8 @@ export const query = graphql`
       siteMetadata {
         title
         subtitle
+        photoCdn
+        photoThumbFolder
         flags {
           showBudget
           showExtras
@@ -54,7 +54,8 @@ export const query = graphql`
         node {
           frontmatter {
             title,
-            prefix
+            prefix,
+            cover
           }
           fields {
             slug

@@ -3,7 +3,6 @@ import { Helmet } from "react-helmet"
 import { StaticQuery, graphql, withPrefix } from "gatsby"
 import Layout from "../components/layout"
 import StageNavigation from "../components/stage-navigation"
-import StageMap from "../components/stage-map"
 
 const CUSTOM_CLASS_MEDIA_CONTAINER = 'custom-stage-media';
 const CUSTOM_CLASS_VIDEO_CONTAINER = 'custom-stage-video';
@@ -42,7 +41,6 @@ export default (props) => (
           <div className="w3-container w3-center custom-banner-head">
             <h2 className="w3-wide">{stageTitle}</h2>
             <h3 className="w3-wide custom-date">{stageDate}</h3>
-            <StageMap map={stage.frontmatter.map}></StageMap>
           </div>
 
           <div className="w3-container w3-content w3-padding-32 custom-inner custom-stage">
