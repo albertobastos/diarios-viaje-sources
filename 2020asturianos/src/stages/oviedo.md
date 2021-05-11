@@ -2,8 +2,8 @@
 title: Oviedo y Monte Naranco
 map: https://goo.gl/maps/oyKhJramcvFWG6b98
 private: false
-prefix: 'oviedo_'
-cover: '05'
+prefix: ''
+cover: 'oviedo_05'
 ---
 Hay a quien le gusta más Gijón. Hay a quien le gusta más Avilés -alguno habrá...-. Sin embargo y aunque las ciudades no sean nuestro destino predilecto, si tuviéramos que elegir una de las tres grandes urbes asturianas tendríamos claro que esa sería Oviedo.
 
