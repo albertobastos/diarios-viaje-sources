@@ -5,8 +5,8 @@ const siteMetadata = {
   rootUrl: '/', // usado para links en el menú
   siteUrl: 'http://albertobastos.info/viajes/2020asturianos', // usado internamente por gatsby
   disqus: "",
-  photoCdn: "http://localhost:8001/2020asturianos",
-  //photoCdn: "http://d3bhx6meigp7tf.cloudfront.net/2020asturianos",
+  //photoCdn: "http://localhost:8001/2020asturianos",
+  photoCdn: "http://d3bhx6meigp7tf.cloudfront.net/2020asturianos",
   photoFullFolder: '1920',
   photoThumbFolder: '480',
   analytics: "UA-329917-",
