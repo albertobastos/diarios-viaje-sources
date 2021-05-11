@@ -5,11 +5,11 @@ private: false
 prefix: coriscao_
 cover: '20'
 ---
-Si hablamos de cuentas pendientes, la cima del Coriscao ocupa un lugar privilegiado en la lista. Pese a ser una excursión que disfrutamos en su día, el cansancio acumulado nos frenó de llegar a lo más alto y conformarnos con alcanzar el collado previo, con unas vistas más que notables a dos de los tres macizos que conforman los Picos de Europa. Pero esta vez, y pese a que la densa niebla con la que arrancó el día nos hizo dudar de si la cumbre vendría acompañada de vistas despejadas, vimos la película entera.
+Si hablamos de cuentas pendientes la cima del Coriscao ocupaba un lugar privilegiado en la lista. En nuestro intento anterior de alcanzarlo el cansancio acumulado nos frenó de llegar a lo más alto y nos conformamos con el collado previo, con unas vistas más que notables a dos de los tres macizos que conforman los Picos de Europa. Pero esta vez y pese a que la densa niebla con la que arrancó el día nos hizo dudar de si la cumbre vendría acompañada de vistas despejadas, llegamos a la meta.
 
-Para alcanzar el Coriscao es necesario aparcar en el Collado de Llesba o, si alguien quiere caminar cuatro kilómetros adicionales entre la ida y la vuelta, estacionar en el Puerto de San Glorio y alcanzar el collado a pie. Una vez en el Collado y dejando tras nosotros el Monumento al Oso, no queda otra que subir, subir y subir, con una pendiente inicial muy pronunciada que se suaviza según rodeamos las cimas previas y vuelve a incrementar cuando llega el momento de la subida final.
+Para alcanzar el Coriscao es necesario aparcar en el Collado de Llesba o, si alguien quiere caminar cuatro kilómetros adicionales entre la ida y la vuelta, estacionar en el Puerto de San Glorio y subir hasta el collado a pie. Una vez en aquí y dejando tras nosotros el Monumento al Oso no queda otra que subir, subir y subir, con una pendiente inicial muy pronunciada que se suaviza según rodeamos las cimas previas y vuelve a incrementar cuando llega el momento del ascenso final.
 
-Una vez arriba pudimos disfrutar de dos versiones de la postal: la primera, nada más llegar, con las cimas de Picos de Europa asomando tímidamente sobre un denso manto de nubes. Y según pasaron los minutos, una panorámica ya despejada tanto de los Picos como de todos sus alrededores, cubriendo con la vista un buen trecho tanto de Castilla y León como de Cantabria.
+Una vez arriba pudimos disfrutar de dos versiones de la misma postal: la primera, nada más llegar, con las cimas de Picos de Europa asomando tímidamente sobre un denso manto de nubes. La segunda, tras el paso de los minutos, una panorámica ya despejada tanto de los Picos como de todos sus alrededores, cubriendo con la vista un buen trecho tanto de Castilla y León como de Cantabria.
 
 ![Coriscao 1/20](01)
 ![Coriscao 2/20](02)

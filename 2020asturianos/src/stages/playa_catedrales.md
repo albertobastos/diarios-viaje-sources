@@ -5,9 +5,9 @@ private: false
 prefix: playa_catedrales_
 cover: '07'
 ---
-Nos gustó la Playa de las Catedrales, pero no nos gustó, nos gusta ni nos gustarán las concentraciones de gente.
+Nos gustó la Playa de las Catedrales. No nos gustó, nos gusta ni nos gustarán las concentraciones de gente.
 
-Pese a estar en un año atípico en el que solo el turismo local llena los espacios que antes compartían nacionales y extranjeros, nuestro paso matutino por el principal reclamo turístico de Lugo fue una experiena agridulce debido a la creciente acumulación de gente de la que era imposible huir mirases en la dirección que mirases.
+Pese a estar en un año atípico en el que solo el turismo local llena los espacios que antes compartían nacionales y extranjeros, nuestro paso matutino por la principal atracción turística de Lugo fue una experiencia agridulce debido a la ingente cantidad de visitantes de la que era imposible huir.
 
 Volvería, pero en invierno.
 

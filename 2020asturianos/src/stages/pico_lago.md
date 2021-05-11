@@ -5,7 +5,7 @@ private: false
 prefix: pico_lago_
 cover: '07'
 ---
-Fue esta nuestra primera salida que requería calzado de montaña. En la zona de Riaño y Mampodre, sus 2001 metros de altitud nos brindaron vistas a esa Asturias y León en las que todavía teníamos muchos días por delante para recorrer.
+Nuestra primera salida del viaje que requería calzado de montaña. En la zona de Riaño y Mampodre, sus 2001 metros de altitud nos brindaron vistas a esa Asturias y León.
 
 ![Pico del Lago 1/8](01)
 ![Pico del Lago 2/8](02)

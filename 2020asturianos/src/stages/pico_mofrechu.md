@@ -7,7 +7,7 @@ cover: '09'
 ---
 La subida al Mofrechu, algo pesada en su primera mitad por una pista pavimentada pero sin apenas recodos en los que refugiarse del sol, nos prometía unas vistas diferentes con el Río Sella serpenteando hasta morir en el Cantábrico a su paso por Ribadesella.
 
-Y no mentía en su promesa, pero quizás no hubiéramos subido de haber sabido que solo íbamos a ver esa panorámica, y de forma parcial, durante cinco segundos. Lo que tardaron las últimas nubes en cubrir los huecos que quedaban libre justo cuando alcanzábamos el piolet metálico que marca la cima.
+Y no mentía en su promesa, pero no hubiéramos subido de haber sabido lo que nos esperaba en la meta. Solo pudimos disfrutar de las vistas, y parcialmente, durante unos efímeros segundos antes de que un manto de nubes lo cubriera todo.
 
 ![Pico Mofrechu 1/14](01)
 ![Pico Mofrechu 2/14](02)
