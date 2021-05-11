@@ -1,10 +1,10 @@
 const siteMetadata = {
   title: "Asturianos 2020",
-  subtitle: "No somos asturianos, pero queremos serlo",
+  subtitle: "No somos asturianos, pero querríamos serlo",
   description: "Álbumes de fotografías de algunos de los lugares visitados durante una estancia de cuatro semanas de julio en Asturias",
   rootUrl: '/', // usado para links en el menú
   siteUrl: 'http://albertobastos.info/viajes/2020asturianos', // usado internamente por gatsby
-  disqus: "asturianos-2020-diario-de-viaje",
+  disqus: "",
   photoCdn: "http://localhost:8001/2020asturianos",
   //photoCdn: "http://d3bhx6meigp7tf.cloudfront.net/2020asturianos",
   photoFullFolder: '1920',
@@ -13,7 +13,7 @@ const siteMetadata = {
   flags: {
     showBudget: false,
     showExtras: false,
-    showComments: true
+    showComments: false
   }
 }
 

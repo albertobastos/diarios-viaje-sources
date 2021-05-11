@@ -3,7 +3,7 @@ title: Alto de la Colladiella
 map: https://goo.gl/maps/z8DngUnV9nD1hfEL9
 private: false
 prefix: alto_colladiella_
-cover: '02'
+cover: '07'
 ---
 En una salida corta, cercana y con pocas expectativas descubrimos un sitio que merecía mucho la pena: el Monumento al Minero en el Alto de la Colladiella, una simbólica estatua en lo alto de una colina mierense que rinde homenaje a una figura sin la cual no se concibe la historia de la región.
 

@@ -3,7 +3,7 @@ title: Somiedo
 map: https://goo.gl/maps/uDSTBBxQKXPxW4EB8
 private: false
 prefix: somiedo_
-cover: '06'
+cover: '11'
 ---
 El día que me mude a Asturias, no creo que sea a Somiedo. Demasiado remoto y de difícil acceso si la rutina te va a obligar a entrar y salir de él diariamente. Pero si me preguntas cuál es mi zona favorita del Principado, siempre será la respuesta.
 

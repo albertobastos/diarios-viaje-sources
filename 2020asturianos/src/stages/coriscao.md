@@ -3,7 +3,7 @@ title: Coriscao
 map: https://goo.gl/maps/JERuPzaVtux4yTyA7
 private: false
 prefix: coriscao_
-cover: '17'
+cover: '20'
 ---
 Si hablamos de cuentas pendientes, la cima del Coriscao ocupa un lugar privilegiado en la lista. Pese a ser una excursión que disfrutamos en su día, el cansancio acumulado nos frenó de llegar a lo más alto y conformarnos con alcanzar el collado previo, con unas vistas más que notables a dos de los tres macizos que conforman los Picos de Europa. Pero esta vez, y pese a que la densa niebla con la que arrancó el día nos hizo dudar de si la cumbre vendría acompañada de vistas despejadas, vimos la película entera.
 

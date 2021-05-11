@@ -3,7 +3,7 @@ title: Alto de la Triguera
 map: https://goo.gl/maps/mH4GcvvZLm8uUr4o7
 private: false
 prefix: alto_triguera_
-cover: '06'
+cover: '16'
 ---
 El Alto de la Triguera no es una meta de las que suelen aparecer en los recorrido más populares. Su punto de partida, el Puerto de Pandetrave, sí que suele ser parada habitual tanto de turistas "sobre ruedas" que van de mirador en mirador como de senderistas que se proponen hacer un largo recorrido hasta Fuente Dé.
 

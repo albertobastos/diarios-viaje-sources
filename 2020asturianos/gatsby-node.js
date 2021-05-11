@@ -33,7 +33,8 @@ exports.createPages = ({ graphql, actions }) => {
               }
               frontmatter {
                 title,
-                prefix
+                prefix,
+                map
               }
               html
             }

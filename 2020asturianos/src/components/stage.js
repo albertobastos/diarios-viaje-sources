@@ -3,6 +3,7 @@ import { Helmet } from "react-helmet"
 import { StaticQuery, graphql, withPrefix } from "gatsby"
 import Layout from "../components/layout"
 import StageNavigation from "../components/stage-navigation"
+import StageMap from "../components/stage-map"
 
 const CUSTOM_CLASS_MEDIA_CONTAINER = 'custom-stage-media';
 const CUSTOM_CLASS_VIDEO_CONTAINER = 'custom-stage-video';
@@ -25,7 +26,7 @@ export default (props) => (
     render={data => {
       const { stage, prev, next } = props;
       const { title: siteTitle } = data.site.siteMetadata;
-      const { title: stageTitle, date: stageDate, description: stageSEODescription } = stage.frontmatter;
+      const { title: stageTitle, date: stageDate, description: stageSEODescription, map: stageMap } = stage.frontmatter;
       const stageFinalHtml = processStageHtml(
         data.site.siteMetadata,
         stage.frontmatter.prefix,
@@ -45,6 +46,7 @@ export default (props) => (
 
           <div className="w3-container w3-content w3-padding-32 custom-inner custom-stage">
             <StageNavigation prev={prev} next={next}></StageNavigation>
+            <StageMap map={stageMap}></StageMap>
             <div className="custom-stage-body" dangerouslySetInnerHTML={{ __html: stageFinalHtml }}></div>
             <StageNavigation prev={prev} next={next}></StageNavigation>
             <div className="custom-stage-links-footer">

@@ -18,12 +18,17 @@ export default ({ data }) => (
       <div className="w3-container w3-content w3-padding-64 custom-inner">
         <div className="w3-row-padding w3-padding-32 custom-offset-sides">
           {(data.allMarkdownRemark.edges.map(({ node }) => (
-            <div className="w3-third w3-margin-bottom">
-            <Link to={node.fields.slug}><img src={data.site.siteMetadata.photoCdn + '/' + data.site.siteMetadata.photoThumbFolder + '/' + node.frontmatter.prefix + node.frontmatter.cover + '.jpg'} alt={node.frontmatter.title}
-              className="w3-hover-opacity custom-full-width" /></Link>
-            <div className="w3-container w3-white w3-center">
-              <p>{node.frontmatter.title}</p>
-            </div>
+            <div className="w3-third w3-margin-bottom custom-index-tile">
+              <Link to={node.fields.slug}>
+                <img
+                  src={data.site.siteMetadata.photoCdn + '/' + data.site.siteMetadata.photoThumbFolder + '/' + node.frontmatter.prefix + node.frontmatter.cover + '.jpg'}
+                  alt={node.frontmatter.title}
+                  className="w3-hover-opacity"
+                />
+              </Link>
+              <div className="w3-container w3-white w3-center">
+                <p>{node.frontmatter.title}</p>
+              </div>
            </div>
         )))}
         </div>
