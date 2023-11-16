@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Transporte",
+    "entries": [
+      {
+        "description": "Bla bla bla...",
+        "price_eur": 111.11
+      }
+    ]
+  },  
+  {
+    "title": "Alojamiento",
+    "entries": [
+      {
+        "description": "Bla bla bla...",
+        "price_eur": 111.11
+      }
+    ]
+  },
+  {
+    "title": "Actividades",
+    "entries": [
+      {
+        "description": "Bla bla bla...",
+        "price_eur": 111.11
+      }
+    ]
+  },  
+  {
+    "title": "Restauración",
+    "entries": [
+      {
+        "description": "Bla bla bla...",
+        "price_eur": 111.11
+      }
+    ]
+  },  
+  {
+    "title": "Otros",
+    "entries": [
+      {
+        "description": "Bla bla bla...",
+        "price_eur": 111.11
+      }
+    ]
+  }
+]
