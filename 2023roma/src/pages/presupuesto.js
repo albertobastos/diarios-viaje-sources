@@ -62,8 +62,6 @@ export const query = graphql`
             title
             entries {
                 description
-                price_cad
-                price_usd
                 price_eur
             }
         }
@@ -78,11 +76,6 @@ function getTotalEur(data) {
     .reduce((arr, entries) => arr.concat(entries), [])
     .reduce((sum, entry) => sum + entry.price_eur, 0);
   return sum;
-}
-
-function currencyFor(entry) {
-  if(entry.price_cad) return currencyStr(entry.price_cad) + ' $CAD';
-  if(entry.price_usd) return currencyStr(entry.price_usd) + ' $USD';
 }
 
 function currencyStr(n) {
