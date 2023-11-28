@@ -6,19 +6,19 @@ date: "10 de octubre de 2023"
 map: false
 private: false
 ---
-Muy temprano estamos ya en la recepción de la [Casa per Ferie](TODO "Casa per Ferie Virgen del Pilar") solicitando dejar nuestras mochilas en la consigna para recogerlas esta tarde antes de emprender el viaje hasta el aeropuerto. Antes de eso, hemos bajado por tercera y última vez al servicio de un desayuno con la misma escasa variedad que en ocasiones anteriores. Son las 8:00 cuando nos echamos a la calle dispuestos a exprimir todo lo posible nuestras últimas horas en Roma.
+Muy temprano estamos ya en la recepción de la [Casa per Ferie](https://casavirgendelpilar.com/ "Casa per Ferie Virgen del Pilar") solicitando dejar nuestras mochilas en la consigna para recogerlas esta tarde antes de emprender el viaje hasta el aeropuerto. Antes de eso, hemos bajado por tercera y última vez al servicio de un desayuno con la misma escasa variedad que en ocasiones anteriores. Son las 8:00 cuando nos echamos a la calle dispuestos a exprimir todo lo posible nuestras últimas horas en Roma.
 
 ![Último día, último desayuno](R23D04A01)
 ![Os echaremos de menos, escaleras... o no](R23D04A02)
 
-[Como Homer Simpson intentando conectarse a la red eléctrica](TODO "Homer Simpson electrocutándose con la red eléctrica") nos empeñamos en seguir metiendo los dedos en el enchufe y permitir que el servicio de autobuses de la ciudad nos electrocute. Para el primer desplazamiento de hoy la supuesta mejor combinación es enlazar dos buses. El primero aparece en un tiempo prudencial. Pero el de la línea 118 que debe llevarnos a nuestro destino es otro cantar. Transcurre media hora sin rastro alguno ni información en un cartel luminoso a la que poder agarrarse y, cuando estoy ya abriendo la aplicación de Freenow dispuesto a hacer el desembolso extra, aparece por la esquina justo a tiempo para que lleguemos a nuestra cita con 5 minutos de retraso.
+[Como Homer Simpson intentando conectarse a la red eléctrica](https://www.youtube.com/watch?v=ak36fm_2u0w "Homer Simpson electrocutándose con la red eléctrica") nos empeñamos en seguir metiendo los dedos en el enchufe y permitir que el servicio de autobuses de la ciudad nos electrocute. Para el primer desplazamiento de hoy la supuesta mejor combinación es enlazar dos buses. El primero aparece en un tiempo prudencial. Pero el de la línea 118 que debe llevarnos a nuestro destino es otro cantar. Transcurre media hora sin rastro alguno ni información en un cartel luminoso a la que poder agarrarse y, cuando estoy ya abriendo la aplicación de Freenow dispuesto a hacer el desembolso extra, aparece por la esquina justo a tiempo para que lleguemos a nuestra cita con 5 minutos de retraso.
 
 ![Templo de Portuno](R23D04A03)
 ![Una vez más, esperando](R23D04A04)
 
-Por lo menos el recorrido de la línea 118 es ya un atractivo turístico en sí mismo, teniendo su paso junto al [Coliseo](TODO) como momento estelar. Tras un último tramo por una angosta carretera sin prácticamente espacio a lado y lado para los peatones, llegamos con el mencionado retraso a la señal que indica la entrada a las [Catacumbas de San Calixto](TODO).
+Por lo menos el recorrido de la línea 118 es ya un atractivo turístico en sí mismo, teniendo su paso junto al [Coliseo](https://es.wikipedia.org/wiki/Coliseo) como momento estelar. Tras un último tramo por una angosta carretera sin prácticamente espacio a lado y lado para los peatones, llegamos con el mencionado retraso a la señal que indica la entrada a las [Catacumbas de San Calixto](https://es.wikipedia.org/wiki/Catacumbas_de_San_Calixto).
 
-Las Catacumbas de San Calixto son un atractivo turístico y arqueológico injustamente ignorado a la sombra de los puntos de interés más populares de Roma. Se encuentran al sureste del centro histórico de la ciudad y no son las únicas catacumbas de la zona, pero sí una de las más recomendadas gracias a uno de sus principales alicientes: la [Cripta de los Padres](TODO "Cripta de los Padres en las Catacumbas de San Calixto") en la que descansan los restos de varios Papas del siglo II al IV.
+Las Catacumbas de San Calixto son un atractivo turístico y arqueológico injustamente ignorado a la sombra de los puntos de interés más populares de Roma. Se encuentran al sureste del centro histórico de la ciudad y no son las únicas catacumbas de la zona, pero sí una de las más recomendadas gracias a uno de sus principales alicientes: la [Cripta de los Padres](https://es.wikipedia.org/wiki/Catacumbas_de_San_Calixto#La_cripta_de_los_Padres "Cripta de los Padres en las Catacumbas de San Calixto") en la que descansan los restos de varios Papas del siglo II al IV.
 
 Nos enganchamos, con la introducción ya en marcha, al grupo acompañado de un guía en español... bueno, que sabe lo justo de español, ya que ni su acento ni su gramática son para tirar cohetes. Refugiados a la sombra y antes de iniciar el descenso nos introduce los datos básicos de las instalaciones: hasta medio millón de cadáveres bajo nuestros pies, un primer descenso rápido de 10 metros a través de una escalera y una temperatura interior que no supera los 15 grados.
 
@@ -32,7 +32,7 @@ Empezamos a bajar y el fresco se nota y agradece a partes iguales en cuanto hemo
 ![Tumbas por todas partes](R23D04A09)
 ![Vistazo furtivo a la cámara papal](R23D04A13)
 
-Nos acompañan casi tantas cámaras de vigilancia como nichos, cosa que continúa ocurriendo cuando en la siguiente estancia nos espera otro de los puntos destacados de la visita: la [tumba de Santa Cecilia](TODO "Tumba de Santa Cecilia en las Catacumbas de San Calixto"), una mártir católica que descansa acompañada de varias reliquias de gran valor histórico. También se preservan en un notable estado de conservación varios frescos de las paredes con motivos de la propia mártir o el Papa Urbano I, así como un busto del Redentor.
+Nos acompañan casi tantas cámaras de vigilancia como nichos, cosa que continúa ocurriendo cuando en la siguiente estancia nos espera otro de los puntos destacados de la visita: la [tumba de Santa Cecilia](https://es.wikipedia.org/wiki/Catacumbas_de_San_Calixto#La_tumba_de_Santa_Cecilia_y_los_cub%C3%ADculos_de_los_sacramentos "Tumba de Santa Cecilia en las Catacumbas de San Calixto"), una mártir católica que descansa acompañada de varias reliquias de gran valor histórico. También se preservan en un notable estado de conservación varios frescos de las paredes con motivos de la propia mártir o el Papa Urbano I, así como un busto del Redentor.
 
 ![Tumba de Santa Cecilia](R23D04A11)
 ![Grabados antiguos](R23D04A10)
@@ -47,13 +47,13 @@ La visita finaliza tras poco menos de una hora y salimos satisfechos de ella: au
 
 ![De nuevo en el exterior](R23D04A16)
 
-Nuestro potencial plan para el día incluía ahora desplazarse hasta la [Colina Pincio](TODO), situada en la otra punta de la ciudad y prometiendo algunas vistas panorámicas al centro histórico. Sin embargo el cansancio hace mella y en su lugar preferimos mantenernos en el centro, cubriendo alguna parada que se había quedado fuera de días anteriores e incluso revisitando alguna de las zonas ya cubiertas. Regresamos con la línea 118 hasta los pies del Coliseo, desde el cual subimos a la [Iglesia de San Pietro in Vincoli](TODO).
+Nuestro potencial plan para el día incluía ahora desplazarse hasta la [Colina Pincio](https://es.wikipedia.org/wiki/Pincio), situada en la otra punta de la ciudad y prometiendo algunas vistas panorámicas al centro histórico. Sin embargo el cansancio hace mella y en su lugar preferimos mantenernos en el centro, cubriendo alguna parada que se había quedado fuera de días anteriores e incluso revisitando alguna de las zonas ya cubiertas. Regresamos con la línea 118 hasta los pies del Coliseo, desde el cual subimos a la [Iglesia de San Pietro in Vincoli](https://es.wikipedia.org/wiki/San_Pietro_in_Vincoli).
 
 ![¡Un bus puntual! ¡Rápido, pide un deseo!](R23D04A17)
 ![La obra](R23D04A18)
 ![La artista](R23D04A19)
 
-Este templo aparece en todas las “listas B” de cosas menos conocidas que poder hacer en Roma y debe agradecérselo, por encima de todo, a la espectacular [escultura de mármol](TODO "Moisés de Miguel Ángel, en San Pietro de Vincoli") de Miguel Ángel representando a la figura de Moisés. Ocupa toda una pared al fondo del recinto y ante ella se acumulan los curiosos para los que es evidente que están viendo algo de gran valor artístico. El resto de la iglesia, siguiendo la tradición, está perfectamente decorada con todo tipo de motivos religiosos y con una pasarela al fondo por la que se van pasando aquellos que quieran ver de cerca las supuestas cadenas con las que ataron a San Pedro en Jerusalén... previo generoso donativo en una ranura para que se levante la compuerta que las esconde, por supuesto.
+Este templo aparece en todas las “listas B” de cosas menos conocidas que poder hacer en Roma y debe agradecérselo, por encima de todo, a la espectacular [escultura de mármol](https://es.wikipedia.org/wiki/Mois%C3%A9s_de_Miguel_%C3%81ngel "Moisés de Miguel Ángel, en San Pietro de Vincoli") de Miguel Ángel representando a la figura de Moisés. Ocupa toda una pared al fondo del recinto y ante ella se acumulan los curiosos para los que es evidente que están viendo algo de gran valor artístico. El resto de la iglesia, siguiendo la tradición, está perfectamente decorada con todo tipo de motivos religiosos y con una pasarela al fondo por la que se van pasando aquellos que quieran ver de cerca las supuestas cadenas con las que ataron a San Pedro en Jerusalén... previo generoso donativo en una ranura para que se levante la compuerta que las esconde, por supuesto.
 
 ![Entrando en San Pietro in Vincoli](R23D04A20)
 ![Moisés según Miguel Ángel](R23D04A21)
@@ -63,7 +63,7 @@ Este templo aparece en todas las “listas B” de cosas menos conocidas que pod
 ![Un fresco en el techo del templo](R23D04A25)
 ![Cosas](R23D04A26)
 
-Seguimos caminando y parando de forma imprevista en alguna tienda de souvenirs, cayendo en la tentación de algunos recuerdos que no teníamos en mente. Nos vamos acercando a lo que se ha convertido en nuestra zona fetiche del centro histórico: la que rodea el [Panteón de Agripa](TODO). Pero antes de alcanzarla nos detenemos en un discreto y a estas horas no demasiado concurrido local de restauración con la amenaza de un risotto flotando sobre mi cabeza. Nos sentamos en la terraza del restaurante [La Montecarlo](TODO "Restaurante La Montecarlo").
+Seguimos caminando y parando de forma imprevista en alguna tienda de souvenirs, cayendo en la tentación de algunos recuerdos que no teníamos en mente. Nos vamos acercando a lo que se ha convertido en nuestra zona fetiche del centro histórico: la que rodea el [Panteón de Agripa](https://es.wikipedia.org/wiki/Pante%C3%B3n_de_Agripa). Pero antes de alcanzarla nos detenemos en un discreto y a estas horas no demasiado concurrido local de restauración con la amenaza de un risotto flotando sobre mi cabeza. Nos sentamos en la terraza del restaurante [La Montecarlo](https://www.tripadvisor.es/Restaurant_Review-g187791-d785325-Reviews-La_Montecarlo-Rome_Lazio.html "Restaurante La Montecarlo").
 
 ![No se me ocurre una foto más Roma que esta](R23D04A27)
 ![Los GPS añejos](R23D04A28)
@@ -81,7 +81,7 @@ Volvemos a Roma y a la terraza de La Montecarlo. A la salud de mi madre, me meto
 ![... y el risotto](R23D04A32)
 ![El único comensal ilustre que conozco, y ya no creo que vuelva](R23D04A34)
 
-Nos volvemos a poner en pie y alcanzamos la calle de nuestra heladería favorita... pero aunque sería lo más obvio, no hemos venido a despedirnos de [Frigidarium](TODO "Heladería Frigidarium"). En su lugar nos detenemos unos portales más allá para dar la oportunidad a [Two Sizes](TODO "Two Sizes, local de tiramisú"), un pequeñísimo local tras cuyo mostrador no dejan de servirse los, en palabras de nuestra guía turística de anoche, indudablemente mejores tiramisús de Roma. Una vez más mi compañero de trabajo pondría los ojos en blanco si me oyera asociar la ciudad a un manjar que para nada tiene aquí su origen, pero que juzgue lo que quiera.
+Nos volvemos a poner en pie y alcanzamos la calle de nuestra heladería favorita... pero aunque sería lo más obvio, no hemos venido a despedirnos de [Frigidarium](https://frigidariumgelateria.com/ "Heladería Frigidarium"). En su lugar nos detenemos unos portales más allá para dar la oportunidad a [Two Sizes](https://www.tripadvisor.es/Restaurant_Review-g187791-d11917500-Reviews-Two_Sizes_Tiramisu_in_Rome-Rome_Lazio.html "Two Sizes, local de tiramisú"), un pequeñísimo local tras cuyo mostrador no dejan de servirse los, en palabras de nuestra guía turística de anoche, indudablemente mejores tiramisús de Roma. Una vez más mi compañero de trabajo pondría los ojos en blanco si me oyera asociar la ciudad a un manjar que para nada tiene aquí su origen, pero que juzgue lo que quiera.
 
 Siendo no excesivamente grandes, pedimos tres tiramisús para compartir entre los dos: de pistacho, de fresa y uno clásico. Suena por los altavoces del local La Niña de la Escuela de Lola Índigo, algo que no vimos venir. No tenemos con qué compararlo, pero en absoluto le vamos a discutir a Valentina que puedan ser los mejores de la ciudad. Recomendadísimos.
 
@@ -90,7 +90,7 @@ Siendo no excesivamente grandes, pedimos tres tiramisús para compartir entre lo
 ![Quién es ese hombre...](R23D04A37)
 ![Más rincones de Roma](R23D04A38)
 
-El tiempo que nos queda y la zona en la que nos encontramos nos lleva a tomar la decisión de, para cerrar el círculo, terminar nuestros días romanos del mismo modo que los iniciamos: dando con nuestros pies en la zona que va desde la [Fontana di Trevi](TODO) hasta la escalinata de la [Plaza de España](TODO), y así poder verificar si la irreal cantidad de gente con la que nos topamos en nuestro primer contacto fue solo fruto de la coincidencia de aterrizar en sábado.
+El tiempo que nos queda y la zona en la que nos encontramos nos lleva a tomar la decisión de, para cerrar el círculo, terminar nuestros días romanos del mismo modo que los iniciamos: dando con nuestros pies en la zona que va desde la [Fontana di Trevi](https://es.wikipedia.org/wiki/Fontana_di_Trevi) hasta la escalinata de la [Plaza de España](https://es.wikipedia.org/wiki/Plaza_de_Espa%C3%B1a_(Roma)), y así poder verificar si la irreal cantidad de gente con la que nos topamos en nuestro primer contacto fue solo fruto de la coincidencia de aterrizar en sábado.
 
 ![Nuestro último vistazo al Panteón](R23D04A39)
 ![Y esto es todo lo que veremos de su interior](R23D04A40)
@@ -123,7 +123,7 @@ Hasta el final, Roma nos pone muy difícil pagar por el transporte, cosa que hac
 
 ![Esperando al tren](R23D04A57)
 
-Llegamos a [Fiumicino](TODO "Aeropuerto de Fiumicino") y, en lo que superamos controles de seguridad y alcanzamos nuestra zona de embarque, caemos en la cuenta de que a nuestra llegada no habíamos reparado en lo inmensa que es la terminal. La zona de restauración parece un centro comercial, y es aquí donde esperamos a nuestro embarque acompañados de un café muy decente por 2,20€ y una decepcionante “Mole Cola” por 3,90€.
+Llegamos a [Fiumicino](https://es.wikipedia.org/wiki/Aeropuerto_de_Roma-Fiumicino "Aeropuerto de Fiumicino") y, en lo que superamos controles de seguridad y alcanzamos nuestra zona de embarque, caemos en la cuenta de que a nuestra llegada no habíamos reparado en lo inmensa que es la terminal. La zona de restauración parece un centro comercial, y es aquí donde esperamos a nuestro embarque acompañados de un café muy decente por 2,20€ y una decepcionante “Mole Cola” por 3,90€.
 
 ![De nuevo, Fiuminico](R23D04A58)
 ![Meh](R23D04A59)
