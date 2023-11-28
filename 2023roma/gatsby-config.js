@@ -4,12 +4,12 @@ const siteMetadata = {
   description: "Diario de un viaje de cuatro días a la ciudad de Roma",
   rootUrl: '/', // usado para links en el menú
   siteUrl: 'http://albertobastos.info/viajes/2023roma', // usado internamente por gatsby
-  disqus: "rockies-2023-diario-de-viaje",
-  photoCdn: "http://localhost:8001/2023roma",
-  //photoCdn: "http://d3bhx6meigp7tf.cloudfront.net/2023roma",
+  disqus: "diario-de-viaje-roma-2023",
+  //photoCdn: "http://localhost:8001/2023roma",
+  photoCdn: "http://d3bhx6meigp7tf.cloudfront.net/2023roma",
   photoFullFolder: 'large',
   photoThumbFolder: 'thumb',
-  //analytics: "UA-329917-27",
+  analytics: "G-QSDHLNZFBM",
   flags: {
     showBudget: true,
     showExtras: false,

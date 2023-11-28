@@ -84,10 +84,10 @@ function processStageHtml({ photoCdn, photoFullFolder, photoThumbFolder }, html)
   // - Sustituimos los enlaces a YouTube por videos embedidos
   //    <a href="https://www.youtube.com/watch?v=xxx">yyy</a> --> <iframe width="560" height="315" src="https://www.youtube.com/embed/xxx" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   // - Cambiamos el contenedor del <p> al <div ...><div> necesario para estilar.
-  html = html.replace(
+  /*html = html.replace(
     /<a href="https:\/\/www.youtube.com\/watch\?v=(.*)">(.*)<\/a>/g,
     '<iframe src="https://www.youtube.com/embed/$1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
-  );
+  );*/
   html = html.replace(
     /<p><iframe (.*)><\/iframe><\/p>/g,
     `<div class="${CUSTOM_CLASS_VIDEO_CONTAINER}"><div><iframe $1></iframe></div></div>`
