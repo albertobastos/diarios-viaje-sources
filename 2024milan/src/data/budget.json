@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Transporte",
+    "entries": [
+      {
+        "description": "Vuelos de ida y vuelta de Ryanair, sin equipaje adicional, entre Barcelona y Roma.",
+        "price_eur": 130.88
+      },
+      {
+        "description": "Trayectos de ida y vuelto en tren entre el Aeropuerto de Fiumicino y la estación de Roma Trastevere. Comprados en las máquinas de venta automática.",
+        "price_eur": 32
+      },
+      {
+        "description": "Bonos de 72 horas para la red de transporte público de Roma (ATAC). Comprados en puntos de venta oficiales o máquinas automáticas.",
+        "price_eur": 36
+      },
+      {
+        "description": "Taxi desde Viale di Trastevere hasta la Casa per Ferie \"Virgen del Pilar\", contratado a través de Freenow.",
+        "price_eur": 18
+      }
+    ]
+  },  
+  {
+    "title": "Alojamiento",
+    "entries": [
+      {
+        "description": "Estancia de tres noches en una habitación doble en la Casa per Ferie \"Virgen del Pilar\" (115 pagados por adelantado en concepto de depósito).",
+        "price_eur": 396
+      }
+    ]
+  },
+  {
+    "title": "Actividades",
+    "entries": [
+      {
+        "description": "Visita guiada en español al Coliseo, incluyendo un recorrido por su nivel subterráneo. La entrada incluye también un acceso al Monte Palatino. Obtenidos a través del portal coopculture.it.",
+        "price_eur": 70
+      },
+      {
+        "description": "Visita con audioguía a los museos y la Capilla Sixtina del Vaticano. Reservada a través de getyourguide.com.",
+        "price_eur": 74
+      },
+      {
+        "description": "Tour nocturno en autobús con guía por la Roma iluminada. Reservado a través del portal Civitatis.",
+        "price_eur": 100
+      },
+      {
+        "description": "Visita guiada en español a las Catacumbas de San Calixto.",
+        "price_eur": 20
+      }
+    ]
+  },  
+  {
+    "title": "Restauración",
+    "entries": [
+      {
+        "description": "Cena en la Trattoria da Alfredo e Ada.",
+        "price_eur": 29
+      },
+      {
+        "description": "Helados de dos bolas en Frigidarium.",
+        "price_eur": 5
+      },
+      {
+        "description": "Comida en la Trattoria Pizzeria Luzzi dal 1945.",
+        "price_eur": 30
+      },
+      {
+        "description": "Helados de dos bolas en Cremeria Monteforte.",
+        "price_eur": 6
+      },
+      {
+        "description": "Cena en el Restaurante Ombre Rosse.",
+        "price_eur": 48
+      },
+      {
+        "description": "Comida en el Ristorante dei Musei frente a la salida del Museo Vaticano.",
+        "price_eur": 26
+      },
+      {
+        "description": "Helados de dos bolas en Frigidarium.",
+        "price_eur": 5
+      },
+      {
+        "description": "Cena en la Pizzeria Ai Marmi.",
+        "price_eur": 31
+      },
+      {
+        "description": "Dos tiramisús pequeños y uno grande en Two Sizes.",
+        "price_eur": 9.5
+      }
+    ]
+  }
+]
