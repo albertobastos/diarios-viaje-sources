@@ -53,7 +53,6 @@ exports.onRouteUpdate = ({ location, prevLocation }) => {
 
     // stage links (show container only when at least one link exists)
     let stageLinksFooter = document.querySelector('div.custom-stage-links-footer');
-    console.log('yyy', stageLinksFooter);
     if(stageLinksFooter) {
         let stageLinks = document.querySelectorAll('div.custom-stage-body a:not(.stage-gallery)');
         let ul = stageLinksFooter.querySelector('ul');
@@ -61,7 +60,6 @@ exports.onRouteUpdate = ({ location, prevLocation }) => {
         ul.innerHTML = Array.prototype
                         .map.call(stageLinks, (link) => `<li><a href="${link.href}" title="${link.title || link.innerText}">${link.title || link.innerText}</a>`)
                         .join('\n');
-        console.log('xxx', stageLinks);
 
         if(stageLinks.length > 0) {
             stageLinksFooter.style.display = 'block';

@@ -5,8 +5,8 @@ const siteMetadata = {
   rootUrl: '/', // usado para links en el menú
   siteUrl: 'http://albertobastos.info/viajes/2024milan', // usado internamente por gatsby
   disqus: "diario-de-viaje-milan-2024",
-  //photoCdn: "http://localhost:8001/2024milan",
-  photoCdn: "http://d3bhx6meigp7tf.cloudfront.net/2023milan",
+  photoCdn: "http://localhost:8001",
+  //photoCdn: "http://d3bhx6meigp7tf.cloudfront.net/2024milan",
   photoFullFolder: 'large',
   photoThumbFolder: 'thumb',
   analytics: "",
