@@ -38,4 +38,4 @@ Pisamos ya la ciudad de Milán con un único objetivo para lo que queda de noche
 
 Caminamos otros pocos metros añadiendo las cajas de pizza a nuestro equipaje hasta alcanzar la entrada del Biocity Hotel, nuestro refugio para las próximas cuatro noches. El criterio para elegirlo, el habitual: bien comunicado, en una zona menos ruidosa que pleno centro, precio aceptable y opiniones mayoritariamente positivas. 120 euros por noche, en una época post-pandemia en la que el turismo ha subido sus tarifas de forma alarmante, entra dentro de lo aceptable. Check-in sin nada que destacar, y una habitación limpia y decente para nosotros. Las pizzas, de atún con cebolla y jamón con champiñones, cumplen su función. Masa fina, como nos gusta. Llega la medianoche cuando apagamos luces y damos por finalizada esta etapa de trámite. Mañana la ciudad nos espera.
 
-![... y cama](M24D00A04)
+![... y cama.](M24D00A04)
