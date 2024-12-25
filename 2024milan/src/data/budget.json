@@ -17,6 +17,14 @@
       {
         "description": "Trayecto de metro entre las estaciones de Duomo y Sondrio.",
         "price_eur": 2.20
+      },
+      {
+        "description": "Trayecto de tren entre las estaciones de Milano Centrale y Bérgamo.",
+        "price_eur": 12.00
+      },
+      {
+        "description": "Trayecto de tren entre las estaciones de Bérgamo y Milano Centrale.",
+        "price_eur": 12.00
       }
     ]
   },  
@@ -72,6 +80,22 @@
       {
         "description": "Cena de batalla en un Carrefour Express.",
         "price_eur": 11.62
+      },
+      {
+        "description": "Desayuno en T-Bakery de Bérgamo.",
+        "price_eur": 18.1
+      },
+      {
+        "description": "Menús de mediodía en T-Bakery de Bérgamo.",
+        "price_eur": 25.5
+      },
+      {
+        "description": "Café, bollería y McFlurry en McDonald's de Milano Centrale.",
+        "price_eur": 6.81
+      },
+      {
+        "description": "Cena en local de San Giorgio Ristorante-Pizzeria.",
+        "price_eur": 56.0
       }
     ]
  }
