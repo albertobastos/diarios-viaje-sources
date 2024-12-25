@@ -9,6 +9,14 @@
       {
         "description": "Billetes de tren del Malpensa Express entre el Aeropuerto de Milán Malpensa y la Estación Central.",
         "price_eur": 26.00
+      },
+      {
+        "description": "Trayecto de metro entre las estaciones de Sondrio y Duomo.",
+        "price_eur": 2.20
+      },
+      {
+        "description": "Trayecto de metro entre las estaciones de Duomo y Sondrio.",
+        "price_eur": 2.20
       }
     ]
   },  
@@ -25,8 +33,16 @@
     "title": "Actividades",
     "entries": [
       {
-        "description": "xxx",
-        "price_eur": 0.00
+        "description": "Free tour por Milán reservado a través de la plataforma Civitatis.",
+        "price_eur": 20.00
+      },
+      {
+        "description": "Entradas Fast Track para visitar las terrazas del Duomo.",
+        "price_eur": 63.00
+      },
+      {
+        "description": "Visita guiada a La Última Cena de Da Vinci a través del portal VivaTickets.it.",
+        "price_eur": 48.00
       }
     ]
   },  
@@ -34,8 +50,28 @@
     "title": "Restauración",
     "entries": [
       {
-        "description": "Dos pizzas para llevar en San Giorgio Ristorante-Pizzeria",
+        "description": "Dos pizzas para llevar en San Giorgio Ristorante-Pizzeria.",
         "price_eur": 14.00
+      },
+      {
+        "description": "Desayuno en el McDonald's de la Plaza del Duomo.",
+        "price_eur": 7.30
+      },
+      {
+        "description": "Comida en un local de la cadena Miscusi.",
+        "price_eur": 34.89
+      },
+      {
+        "description": "Helados en Chocolat.",
+        "price_eur": 7.5
+      },
+      {
+        "description": "Cafés en Amaretto Caffè.",
+        "price_eur": 4.1
+      },
+      {
+        "description": "Cena de batalla en un Carrefour Express.",
+        "price_eur": 11.62
       }
     ]
  }
