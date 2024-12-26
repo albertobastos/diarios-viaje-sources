@@ -4,9 +4,9 @@ const siteMetadata = {
   description: "Diario de un viaje de tres días a Milán, Bérgamo y Como",
   rootUrl: '/', // usado para links en el menú
   siteUrl: 'http://albertobastos.info/viajes/2024milan', // usado internamente por gatsby
-  disqus: "diario-de-viaje-milan-2024",
-  photoCdn: "http://localhost:8001",
-  //photoCdn: "http://d3bhx6meigp7tf.cloudfront.net/2024milan",
+  disqus: "milan-2024-diario-de-viaje-1",
+  //photoCdn: "http://localhost:8001",
+  photoCdn: "http://d3bhx6meigp7tf.cloudfront.net/2024milan",
   photoFullFolder: 'large',
   photoThumbFolder: 'thumb',
   analytics: "",

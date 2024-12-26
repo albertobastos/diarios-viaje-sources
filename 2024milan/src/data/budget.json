@@ -25,6 +25,22 @@
       {
         "description": "Trayecto de tren entre las estaciones de Bérgamo y Milano Centrale.",
         "price_eur": 12.00
+      },
+      {
+        "description": "Trayecto de tren entre las estaciones de Milano Centrale y Como San Giovanni.",
+        "price_eur": 12.00
+      },
+      {
+        "description": "Billetes de ida y vuelta para el funicular entre Como y Brunate.",
+        "price_eur": 13.20
+      },
+      {
+        "description": "Trayecto de tren entre las estaciones de Como San Giovanni y Milano Centrale.",
+        "price_eur": 12.00
+      },
+      {
+        "description": "Billetes de tren del Malpensa Express entre la Estación Central y el Aeropuerto de Milán Malpensa.",
+        "price_eur": 26.00
       }
     ]
   },  
@@ -50,6 +66,10 @@
       },
       {
         "description": "Visita guiada a La Última Cena de Da Vinci a través del portal VivaTickets.it.",
+        "price_eur": 48.00
+      },
+      {
+        "description": "Entradas en la grada superior de San Siro para el AC Milán - Empoli de la Serie A.",
         "price_eur": 48.00
       }
     ]
@@ -96,6 +116,26 @@
       {
         "description": "Cena en local de San Giorgio Ristorante-Pizzeria.",
         "price_eur": 56.0
+      },
+      {
+        "description": "Desayuno en Starbucks de la Estación Central.",
+        "price_eur": 16.0
+      },
+      {
+        "description": "Comida en San Giorgio Ristorante-Pizzeria.",
+        "price_eur": 45.00
+      },
+      {
+        "description": "Cena para llevar en San Giorgio Ristorante-Pizzeria.",
+        "price_eur": 19.00
+      },
+      {
+        "description": "Comida en Five Guys de Milano Centrale.",
+        "price_eur": 29.15
+      },
+      {
+        "description": "Helados en Venchi del Aeropuerto de Milán Malpensa.",
+        "price_eur": 12.70
       }
     ]
  }
