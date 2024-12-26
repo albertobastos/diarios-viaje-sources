@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Transporte",
+    "entries": [
+      {
+        "description": "Vuelos de ida y vuelta entre Palma de Mallorca y Milán (ida con escala en Barcelona, vuelta directa) para la compañía Vueling.",
+        "price_eur": 43.98
+      },
+      {
+        "description": "Billetes de tren del Malpensa Express entre el Aeropuerto de Milán Malpensa y la Estación Central.",
+        "price_eur": 26.00
+      },
+      {
+        "description": "Trayecto de metro entre las estaciones de Sondrio y Duomo.",
+        "price_eur": 2.20
+      },
+      {
+        "description": "Trayecto de metro entre las estaciones de Duomo y Sondrio.",
+        "price_eur": 2.20
+      },
+      {
+        "description": "Trayecto de tren entre las estaciones de Milano Centrale y Bérgamo.",
+        "price_eur": 12.00
+      },
+      {
+        "description": "Trayecto de tren entre las estaciones de Bérgamo y Milano Centrale.",
+        "price_eur": 12.00
+      },
+      {
+        "description": "Trayecto de tren entre las estaciones de Milano Centrale y Como San Giovanni.",
+        "price_eur": 12.00
+      },
+      {
+        "description": "Billetes de ida y vuelta para el funicular entre Como y Brunate.",
+        "price_eur": 13.20
+      },
+      {
+        "description": "Trayecto de tren entre las estaciones de Como San Giovanni y Milano Centrale.",
+        "price_eur": 12.00
+      },
+      {
+        "description": "Billetes de tren del Malpensa Express entre la Estación Central y el Aeropuerto de Milán Malpensa.",
+        "price_eur": 26.00
+      }
+    ]
+  },  
+  {
+    "title": "Alojamiento",
+    "entries": [
+      {
+        "description": "Habitación doble para cuatro noches en el Biocity Hotel cercano a la Estación Central.",
+        "price_eur": 487.80
+      }
+    ]
+  },
+  {
+    "title": "Actividades",
+    "entries": [
+      {
+        "description": "Free tour por Milán reservado a través de la plataforma Civitatis.",
+        "price_eur": 20.00
+      },
+      {
+        "description": "Entradas Fast Track para visitar las terrazas del Duomo.",
+        "price_eur": 63.00
+      },
+      {
+        "description": "Visita guiada a La Última Cena de Da Vinci a través del portal VivaTickets.it.",
+        "price_eur": 48.00
+      },
+      {
+        "description": "Entradas en la grada superior de San Siro para el AC Milán - Empoli de la Serie A.",
+        "price_eur": 48.00
+      }
+    ]
+  },  
+  {
+    "title": "Restauración",
+    "entries": [
+      {
+        "description": "Dos pizzas para llevar en San Giorgio Ristorante-Pizzeria.",
+        "price_eur": 14.00
+      },
+      {
+        "description": "Desayuno en el McDonald's de la Plaza del Duomo.",
+        "price_eur": 7.30
+      },
+      {
+        "description": "Comida en un local de la cadena Miscusi.",
+        "price_eur": 34.89
+      },
+      {
+        "description": "Helados en Chocolat.",
+        "price_eur": 7.5
+      },
+      {
+        "description": "Cafés en Amaretto Caffè.",
+        "price_eur": 4.1
+      },
+      {
+        "description": "Cena de batalla en un Carrefour Express.",
+        "price_eur": 11.62
+      },
+      {
+        "description": "Desayuno en T-Bakery de Bérgamo.",
+        "price_eur": 18.1
+      },
+      {
+        "description": "Menús de mediodía en T-Bakery de Bérgamo.",
+        "price_eur": 25.5
+      },
+      {
+        "description": "Café, bollería y McFlurry en McDonald's de Milano Centrale.",
+        "price_eur": 6.81
+      },
+      {
+        "description": "Cena en local de San Giorgio Ristorante-Pizzeria.",
+        "price_eur": 56.0
+      },
+      {
+        "description": "Desayuno en Starbucks de la Estación Central.",
+        "price_eur": 16.0
+      },
+      {
+        "description": "Comida en San Giorgio Ristorante-Pizzeria.",
+        "price_eur": 45.00
+      },
+      {
+        "description": "Cena para llevar en San Giorgio Ristorante-Pizzeria.",
+        "price_eur": 19.00
+      },
+      {
+        "description": "Comida en Five Guys de Milano Centrale.",
+        "price_eur": 29.15
+      },
+      {
+        "description": "Helados en Venchi del Aeropuerto de Milán Malpensa.",
+        "price_eur": 12.70
+      }
+    ]
+ }
+]
