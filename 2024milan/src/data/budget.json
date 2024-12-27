@@ -3,8 +3,12 @@
     "title": "Transporte",
     "entries": [
       {
-        "description": "Vuelos de ida y vuelta entre Palma de Mallorca y Milán (ida con escala en Barcelona, vuelta directa) para la compañía Vueling.",
+        "description": "Vuelos de ida entre Palma de Mallorca y Milán con escala en Barcelona para la compañía Vueling.",
         "price_eur": 43.98
+      },
+      {
+        "description": "Vuelos de vuelta directa entre Milán y Palma de Mallorca para la compañía Ryanair.",
+        "price_eur": 47.98
       },
       {
         "description": "Billetes de tren del Malpensa Express entre el Aeropuerto de Milán Malpensa y la Estación Central.",
